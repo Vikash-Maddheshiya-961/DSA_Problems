@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -26,5 +27,6 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->

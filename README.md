@@ -17,6 +17,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0066-plus-one) |
 ## Hash Table
 |  |

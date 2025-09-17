@@ -28,12 +28,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0066-plus-one) |
 ## String
 |  |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

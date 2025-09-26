@@ -13,6 +13,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0007-reverse-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,4 +114,12 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

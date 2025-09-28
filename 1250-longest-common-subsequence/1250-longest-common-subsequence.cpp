@@ -6,11 +6,10 @@ public:
         vector<vector<int>> L(l1+1,vector<int>(l2+1));
 
         for(int i=0;i<=l1;i++){
-            for(int j=0;j<=l2;j++){
-                if(i==0 || j==0){
-                    L[i][j] = 0;
-                }
-            }
+            L[i][0] = 0;
+        }
+        for(int i=0 ;i<=l2;i++){
+            L[0][i] = 0;
         }
 
         for(int i = 1;i<=l1;i++){

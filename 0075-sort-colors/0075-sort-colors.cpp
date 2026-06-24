@@ -1,11 +1,5 @@
 class Solution {
 public:
-    void swap(int *x,int*y){
-        int temp = *x;
-        *x = *y;
-        *y = temp;
-        return;
-    }
     void sortColors(vector<int>& nums) {
         // 3 pointer approach 
         // low = 0, mid = 0 ,high = n-1
@@ -15,11 +9,11 @@ public:
         int l=0, m=0,h=n-1;
         while(m<=h){
             if(nums[m] == 2){
-                swap(&nums[h],&nums[m]);
+                swap(nums[h],nums[m]);
                 h--;
             }
             else if(nums[m]==0){
-                swap(&nums[l],&nums[m]);
+                swap(nums[l],nums[m]);
                 l++;
                 m++;
             }

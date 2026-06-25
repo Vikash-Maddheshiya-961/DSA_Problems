@@ -1,9 +1,5 @@
 class Solution {
 public:
-    int min(int a,int b){
-        if(a<b) return a;
-        return b;
-    }
     int trap(vector<int>& height) {
         int n = height.size();
         // Previous_Greatest_Element Array
@@ -25,14 +21,14 @@ public:
             if(max<height[i]) max = height[i];
         }
         // Now calculating the amount of trap water
-        int w = 0;
-        int m;
+        int water = 0;
+        int mini;
         for(int i=1;i<=n-2;i++){
-            m = min(PGE[i],NGE[i]);
-            if(height[i] < m){
-                w += m-height[i];
+            mini = min(PGE[i],NGE[i]);
+            if(height[i] < mini){
+                water += mini-height[i];
             }
         }
-        return w;
+        return water;
     }
 };

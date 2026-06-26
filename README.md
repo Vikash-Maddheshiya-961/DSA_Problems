@@ -20,6 +20,7 @@
 | [0002-add-two-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
@@ -50,6 +51,7 @@
 | [0011-container-with-most-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0088-merge-sorted-array) |
@@ -152,6 +154,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |

@@ -64,6 +64,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
 | [0860-design-circular-queue](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0860-design-circular-queue) |
+| [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0867-transpose-matrix) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## String
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0011-container-with-most-water) |
+| [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
 ## Design
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0048-rotate-image](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -176,4 +179,8 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->

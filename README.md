@@ -64,6 +64,7 @@
 | [0118-pascals-triangle](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0860-design-circular-queue](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0860-design-circular-queue) |
 | [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0867-transpose-matrix) |
@@ -85,12 +86,14 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | [0054-spiral-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0867-transpose-matrix) |
 ## Simulation

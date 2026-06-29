@@ -19,7 +19,7 @@ public:
                 break;
             }
         }
-        //3.store markers in first row and col  for inner elements
+        //3.store markers in first row and col  for inner matrix elements
         for(int i=1;i<m;i++){
             for(int j=1;j<n;j++){
                 if(matrix[i][j] == 0){
@@ -37,13 +37,13 @@ public:
             }
         }
         //5.Now update the first row if needed
-        if(flagrow0 == true){
+        if(flagrow0){
             for(int j=0;j<n;j++){
                 matrix[0][j] = 0;
             }
         }
         //6. now update the second row if needed
-        if(flagcol0 == true){
+        if(flagcol0){
             for(int i=0;i<m;i++){
                 matrix[i][0] = 0;
             }

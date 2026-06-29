@@ -1,17 +1,17 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
+        // Binary Search in 2d matrix;
         int m = matrix.size();
         int n = matrix[0].size();
-        for(int i=0; i<m; i++){
-            for(int j=n-1; j>=0; j--){
-                if(target > matrix[i][j]) break;
-                else{
-                    if(matrix[i][j] == target){
-                        return true;
-                    }
-                }
-            }
+        int low = 0, high = m*n-1;
+        while(low<=high){
+            int mid = low + (high - low)/2;
+            int row = mid/n;
+            int col = mid%n;
+            if(matrix[row][col] == target) return true;
+            else if(target > matrix[row][col]) low = mid+1;
+            else high = mid-1;
         }
         return false;
     }

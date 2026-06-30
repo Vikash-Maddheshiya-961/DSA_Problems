@@ -33,6 +33,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Two Pointers
 |  |
@@ -80,11 +81,13 @@
 | [0008-string-to-integer-atoi](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0344-reverse-string) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1250-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |

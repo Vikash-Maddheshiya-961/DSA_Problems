@@ -3,50 +3,41 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int m = matrix.size();
         int n = matrix[0].size();
-        int flagrow0 = false;
-        int flagcol0 = false;
-        //1.Check whether first row has 0 or not
-        for(int j=0; j<n; j++){
-            if(matrix[0][j] == 0){
-                flagrow0 = true;
-                break;
-            }
+        bool row0 = false, col0 = false;
+        for(int j=0;j<n;j++){
+            if(matrix[0][j] == 0) row0 = true;
         }
-        //2.Check whether first column has 0 or not
-        for(int i=0; i<m; i++){
-            if(matrix[i][0] == 0){
-                flagcol0 = true;
-                break;
-            }
+        for(int i=0;i<m;i++){
+            if(matrix[i][0] == 0) col0 = true;
         }
-        //3.store markers in first row and col  for inner matrix elements
+        // use the first row and column as marker
         for(int i=1;i<m;i++){
             for(int j=1;j<n;j++){
                 if(matrix[i][j] == 0){
-                    matrix[i][0] = 0;
                     matrix[0][j] = 0;
+                    matrix[i][0] = 0;
                 }
             }
         }
-        //4.update the inner element value using the markers
+        // using marker modify the inner elements
         for(int i=1;i<m;i++){
             for(int j=1;j<n;j++){
-                if(matrix[i][0] == 0 || matrix[0][j]==0){
+                if(matrix[i][0] == 0 || matrix[0][j] == 0){
                     matrix[i][j] = 0;
                 }
             }
         }
-        //5.Now update the first row if needed
-        if(flagrow0){
+        // now make the 0th row and column zeroes if it contain 0;
+        if(row0){
             for(int j=0;j<n;j++){
                 matrix[0][j] = 0;
             }
         }
-        //6. now update the second row if needed
-        if(flagcol0){
+        if(col0){
             for(int i=0;i<m;i++){
                 matrix[i][0] = 0;
             }
         }
+        return;
     }
 };

@@ -2,7 +2,7 @@ class Solution {
 public:
     int maximumValue(vector<string>& strs) {
         int n = strs.size();
-        vector<int> num(n);
+        int max = INT_MIN;
         for(auto str:strs){
             bool flag = false;
             for(int j=0;j<str.size();j++){
@@ -11,15 +11,13 @@ public:
                     break;
                 }
             }
+            int n;
             if(flag == true){
-                num.push_back(str.size());
+                n = str.size();
             }else{
-                num.push_back(stoi(str));
+                n = stoi(str);
             }
-        }
-        int max = num[0];
-        for(auto val: num){
-            if(max < val) max = val;
+            if(max < n) max = n;
         }
         return max;
     }

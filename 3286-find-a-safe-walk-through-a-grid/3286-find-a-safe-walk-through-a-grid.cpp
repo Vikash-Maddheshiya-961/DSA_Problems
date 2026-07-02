@@ -6,10 +6,12 @@ public:
         vector<vector<int>> cost(m,vector<int>(n,INT_MAX));
         queue<pair<int,int>> q;
         vector<pair<int,int>> dir = {{0,1},{0,-1},{1,0},{-1,0}};
-        q.push({0,0});
         cost[0][0] = grid[0][0];
+        q.push({0,0});
         while(!q.empty()){
-            auto [r,c] = q.front();
+            pair<int,int> temp = q.front();
+            int r = temp.first;
+            int c = temp.second;
             q.pop();
             for(auto [dr,dc]:dir){
                 int nr = r + dr;

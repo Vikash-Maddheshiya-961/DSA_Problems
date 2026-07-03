@@ -86,6 +86,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1250-longest-common-subsequence) |
+| [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
 | ------- |
@@ -237,6 +240,7 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
 ## Trie
 |  |
 | ------- |
@@ -245,8 +249,14 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->

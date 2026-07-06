@@ -12,7 +12,7 @@ public:
         vector<vector<int>> result;
         result.push_back(intervals[0]);
         for(int i=0;i<m;i++){
-            if(result.back()[0] <= intervals[i][0] && result.back()[1] >= intervals[i][1]){
+            if(result.back()[1] >= intervals[i][1]){
                 continue;
             }
             result.push_back(intervals[i]);

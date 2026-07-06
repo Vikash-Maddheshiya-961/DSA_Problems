@@ -9,14 +9,15 @@ public:
             return vec1[0] < vec2[0];
         };
         sort(intervals.begin(),intervals.end(),lambda);
-        vector<vector<int>> result;
-        result.push_back(intervals[0]);
-        for(int i=0;i<m;i++){
-            if(result.back()[1] >= intervals[i][1]){
+        int lastIntervalEndval = intervals[0][1];
+        int count = 1;
+        for(int i=1;i<m;i++){
+            if(lastIntervalEndval >= intervals[i][1]){
                 continue;
             }
-            result.push_back(intervals[i]);
+            lastIntervalEndval = intervals[i][1];
+            count++ ;
         }
-        return result.size();
+        return count;
     }
 };

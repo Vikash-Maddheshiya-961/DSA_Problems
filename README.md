@@ -35,6 +35,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -75,6 +76,7 @@
 | [0118-pascals-triangle](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0283-move-zeroes) |
@@ -126,6 +128,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
@@ -199,6 +202,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1288-remove-covered-intervals) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -272,4 +276,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

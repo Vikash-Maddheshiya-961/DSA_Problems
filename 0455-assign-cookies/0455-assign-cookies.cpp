@@ -6,14 +6,13 @@ public:
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
         int maxi = 0;
-        int j=0;
-        for(int i=0;i<nch;i++){
-            while(j<nco){
-                if(g[i] <= s[j]){
-                    maxi++;
-                    j++;
-                    break;
-                }
+        int i=0, j=0;
+        while(i<nch && j<nco){
+            if(g[i] <= s[j]){
+                maxi++;
+                i++;
+                j++;
+            }else{
                 j++;
             }
         }

@@ -2,22 +2,21 @@ class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
         int m = intervals.size();
-        sort(intervals.begin(),intervals.end());
-        vector<int> mark(m,0);
-        for(int i=0;i<m;i++){
-            if(mark[i] == 1) continue;
-            for(int j=i+1;j<m;j++){
-                if(mark[i] == 0 && mark[j] == 0 && intervals[j][1] <= intervals[i][1]){
-                    mark[j] = 1;
-                }else if(mark[i]== 0 && mark[j] == 0 && intervals[i][0] == intervals[j][0] && intervals[i][1] <= intervals[j][1]){
-                    mark[i] = 1;
-                }
+        auto lambda = [](vector<int>& vec1,vector<int>& vec2){
+            if(vec1[0] == vec2[0]){
+                return vec1[1] > vec2[1];
             }
-        }
-        int count = 0;
+            return vec1[0] < vec2[0];
+        };
+        sort(intervals.begin(),intervals.end(),lambda);
+        vector<vector<int>> result;
+        result.push_back(intervals[0]);
         for(int i=0;i<m;i++){
-            if(mark[i] == 0) count++;
+            if(result.back()[0] <= intervals[i][0] && result.back()[1] >= intervals[i][1]){
+                continue;
+            }
+            result.push_back(intervals[i]);
         }
-        return count;
+        return result.size();
     }
 };

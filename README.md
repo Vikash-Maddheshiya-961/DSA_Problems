@@ -26,6 +26,7 @@
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |

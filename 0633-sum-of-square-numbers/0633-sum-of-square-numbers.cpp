@@ -1,7 +1,6 @@
 class Solution {
 public:
     long long sroot(long long x){
-        long long sroot;
         long long lo = 1;
         long long hi = x;
         while(lo <= hi){

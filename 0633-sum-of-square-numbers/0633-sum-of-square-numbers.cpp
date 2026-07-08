@@ -17,15 +17,12 @@ public:
         }
         return hi;
     }
-    long long power2(long long a){
-        return a*a;
-    }
     bool judgeSquareSum(int c) {
         long long k = (long long)c;
         long long i = sroot(c);
-        for(int b=0;b<=i;b++){
-            long long a = sroot(k - power2(b));
-            if((power2(a) + power2(b)) == k){
+        for(long long b=0;b<=i;b++){
+            long long a = sroot(k - (b*b));
+            if(((a*a) + (b*b)) == k){
                 return true;
             }
         }

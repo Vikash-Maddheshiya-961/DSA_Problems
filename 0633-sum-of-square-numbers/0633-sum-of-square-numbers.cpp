@@ -5,10 +5,10 @@ public:
         long long hi = x;
         while(lo <= hi){
             long long mid = lo + (hi-lo)/2;
-            if((long long)(mid*mid) == (long long)x){
+            if((mid*mid) == x){
                 return mid;
             }
-            else if((long long)(mid*mid) < (long long)x){
+            else if((mid*mid) < x){
                 lo = mid + 1;
             }
             else{

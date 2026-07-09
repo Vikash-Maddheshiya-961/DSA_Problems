@@ -2,11 +2,11 @@ class Solution {
 public:
     bool check(vector<int>& time,long long mid,int totalTrips){
         int n = time.size();
-        long long tt = 0;
+        long long ttt = 0; // total trip time
         for(int i=0;i<n;i++){
-            tt += mid/(long long)time[i];
+            ttt += mid/(long long)time[i];
         }
-        if(tt < (long long)totalTrips) return false;
+        if(ttt < (long long)totalTrips) return false;
         return true;
     }
     long long minimumTime(vector<int>& time, int totalTrips) {

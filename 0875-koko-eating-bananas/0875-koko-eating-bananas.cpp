@@ -4,7 +4,9 @@ public:
         int h = 0;
         int n = piles.size();
         for(int i=0; i<n; i++){
-            h += (piles[i] + mid - 1)/mid;
+            if(piles[i] <= mid) h++;
+            else if(piles[i]%mid == 0) h += piles[i]/mid;
+            else h += piles[i]/mid + 1;
 
             if(h > hour) return false;
         }

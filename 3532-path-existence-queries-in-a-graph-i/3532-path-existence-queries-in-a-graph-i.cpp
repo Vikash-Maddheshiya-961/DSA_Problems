@@ -11,16 +11,9 @@ public:
                 component[i] = i;
             }
         }
-        vector<bool> ans(tot_queries);
+        vector<bool> ans;
         for(int i=0;i<tot_queries;i++){
-            int node1 = queries[i][0];
-            int node2 = queries[i][1];
-            if(component[node1] == component[node2]){
-                ans[i] = true;
-            }
-            else{
-                ans[i] = false;
-            }
+            ans.push_back(component[queries[i][0]] == component[queries[i][1]]);
         }
         return ans;
     }

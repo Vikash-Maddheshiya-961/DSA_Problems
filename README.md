@@ -23,6 +23,7 @@
 | [0048-rotate-image](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
@@ -236,6 +238,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |

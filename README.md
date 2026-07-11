@@ -61,6 +61,7 @@
 | [0283-move-zeroes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
@@ -129,6 +130,7 @@
 | [0205-isomorphic-strings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1250-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -235,6 +237,7 @@
 | [0070-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1250-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |

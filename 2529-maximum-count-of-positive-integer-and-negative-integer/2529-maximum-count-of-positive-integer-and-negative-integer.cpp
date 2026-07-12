@@ -5,7 +5,7 @@ public:
         int neg = 0;
         for(int val : nums){
             if (val == 0) continue;
-            if(val < 0) neg++;
+            else if(val < 0) neg++;
             else pos++;
         }
         return max(pos,neg);

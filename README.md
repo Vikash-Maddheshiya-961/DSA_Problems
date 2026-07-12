@@ -44,6 +44,7 @@
 | [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -110,6 +111,7 @@
 | [1288-remove-covered-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2187-minimum-time-to-complete-trips) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -258,6 +260,7 @@
 | [0455-assign-cookies](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack

@@ -26,6 +26,7 @@
 | [0069-sqrtx](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -156,6 +157,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0704-binary-search) |

@@ -1,10 +1,8 @@
 class Solution {
 public:
-    void reverse(vector<int>& v,int i,int j){
+    void reverse_part(vector<int>& arr,int i, int j){
         while(i<j){
-            v[i] = v[i]+v[j];
-            v[j] = v[i]-v[j];
-            v[i] = v[i]-v[j];
+            swap(arr[i],arr[j]);
             i++;
             j--;
         }
@@ -12,10 +10,10 @@ public:
     }
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
-        k = k%n;
-        reverse(nums,0,n-1);
-        reverse(nums,0,k-1);
-        reverse(nums,k,n-1);
+        k = k % n;
+        reverse_part(nums,0,n-1);
+        reverse_part(nums,0,k-1);
+        reverse_part(nums,k,n-1);
         return;
     }
 };

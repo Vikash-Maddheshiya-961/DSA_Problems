@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0075-sort-colors) |
@@ -75,6 +76,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |

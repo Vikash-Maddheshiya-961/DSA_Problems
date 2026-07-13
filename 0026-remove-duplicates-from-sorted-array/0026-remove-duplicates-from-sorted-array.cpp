@@ -11,10 +11,7 @@ public:
                 prev = nums[i];
             }
         }
-        int size = temp.size();
-        for(int i=0;i<size;i++){
-            nums[i] = temp[i];
-        }
-        return size;
+        nums = temp;
+        return nums.size();
     }
 };

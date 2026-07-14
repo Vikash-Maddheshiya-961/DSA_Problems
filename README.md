@@ -30,6 +30,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -123,6 +124,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2187-minimum-time-to-complete-trips) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -382,4 +384,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0090-subsets-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

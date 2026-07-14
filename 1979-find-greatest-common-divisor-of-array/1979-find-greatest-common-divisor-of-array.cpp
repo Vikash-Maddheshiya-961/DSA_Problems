@@ -1,10 +1,8 @@
 class Solution {
 public:
     int GCD(int a,int b){
-        int q = a/b;
-        int r = a - q*b;
-        if(r == 0) return b;
-        return GCD(b,r);
+        if(b == 0) return a;
+        return GCD(b,a%b);
     }
     int findGCD(vector<int>& nums) {
         int n = nums.size();

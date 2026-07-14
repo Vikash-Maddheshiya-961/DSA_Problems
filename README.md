@@ -13,6 +13,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -28,6 +29,7 @@
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -331,6 +333,7 @@
 | [0090-subsets-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search

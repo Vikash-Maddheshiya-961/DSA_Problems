@@ -108,6 +108,7 @@
 | [0136-single-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
@@ -392,6 +393,7 @@
 | [0077-combinations](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0216-combination-sum-iii) |
 ## Number Theory
 |  |
 | ------- |

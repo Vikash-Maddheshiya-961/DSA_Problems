@@ -4,28 +4,22 @@ public:
         if(n==1) return "1";
         string str = countAndSay(n-1);
         string ztr;
-        ztr.push_back(str[0]);
         int count = 1;
         char prev = str[0];
-        for(int i=1;i<str.size();i++){
+        for(int i=1;i<str.length();i++){
             char curr = str[i];
             if(prev == curr){
                 count++;
             }
             else{
-                char temp = ztr[ztr.length()-1];
-                ztr.pop_back();
                 ztr.push_back(char(count+48)); 
-                ztr.push_back(temp);
-                ztr.push_back(curr);
+                ztr.push_back(prev);
                 count = 1;
                 prev = curr;
             }
         }
-        char temp = ztr[ztr.length()-1];
-        ztr.pop_back();
         ztr.push_back(char(count+48)); 
-        ztr.push_back(temp);
+        ztr.push_back(prev);
         return ztr;
     }
 };

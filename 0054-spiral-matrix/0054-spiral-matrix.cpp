@@ -1,34 +1,35 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
+        vector<int> ans;
         int m = matrix.size();
         int n = matrix[0].size();
-        vector<int> res;
-        int fr = 0, lr = m-1, fc = 0, lc = n-1;
-        int tne = m*n;
-        int count = 0;
-        while(fr<=lr && fc<=lc){
-            for(int i=fc;i<=lc && count<tne;i++){
-                res.push_back(matrix[fr][i]);
-                count++;
+        int val = 1;
+        int total = m*n;
+        int sr = 0,er = m-1;
+        int sc = 0,ec = n-1;
+        while(sr <= er && sc <= ec){
+            for(int j=sc;j<=ec && val <= total;j++){
+                ans.push_back(matrix[sr][j]);
+                val++;
             }
-            fr++;
-            for(int i=fr;i<=lr && count<tne;i++){
-                res.push_back(matrix[i][lc]);
-                count++;
+            sr++;
+            for(int i=sr;i<=er && val <= total;i++){
+                ans.push_back(matrix[i][ec]);
+                val++;
             }
-            lc--;
-            for(int i=lc;i>=fc && count<tne;i--){
-                res.push_back(matrix[lr][i]);
-                count++;
+            ec--;
+            for(int j=ec;j>=sc && val <= total;j--){
+                ans.push_back(matrix[er][j]);
+                val++;
             }
-            lr--;
-            for(int i=lr;i>=fr && count<tne;i--){
-                res.push_back(matrix[i][fc]);
-                count++;
+            er--;
+            for(int i=er;i>=sr && val <= total;i--){
+                ans.push_back(matrix[i][sc]);
+                val++;
             }
-            fc++;
+            sc++;
         }
-        return res;
+        return ans;
     }
 };

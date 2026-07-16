@@ -11,9 +11,7 @@ public:
             }
             j++;
         }
-        if(i == len1){
-            return true;
-        }
+        if(i == len1) return true;
         return false;
     }
 };

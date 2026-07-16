@@ -21,6 +21,7 @@
 | [0002-add-two-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0066-plus-one) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -154,6 +156,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0038-count-and-say) |

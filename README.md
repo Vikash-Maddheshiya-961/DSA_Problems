@@ -38,6 +38,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -300,6 +303,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -324,6 +328,7 @@
 | [0054-spiral-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0867-transpose-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -412,4 +417,5 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

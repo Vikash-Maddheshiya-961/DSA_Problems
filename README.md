@@ -13,6 +13,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 ## Math
@@ -23,6 +24,7 @@
 | [0009-palindrome-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0069-sqrtx) |

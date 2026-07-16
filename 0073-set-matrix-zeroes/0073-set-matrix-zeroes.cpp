@@ -3,23 +3,28 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int m = matrix.size();
         int n = matrix[0].size();
-        bool row0 = false, col0 = false;
+        bool row0 = false;
+        bool col0 = false;
         for(int j=0;j<n;j++){
-            if(matrix[0][j] == 0) row0 = true;
+            if(matrix[0][j] == 0){
+                row0 = true;
+                break;
+            }
         }
         for(int i=0;i<m;i++){
-            if(matrix[i][0] == 0) col0 = true;
+            if(matrix[i][0] == 0){
+                col0 = true;
+                break;
+            }
         }
-        // use the first row and column as marker
         for(int i=1;i<m;i++){
             for(int j=1;j<n;j++){
                 if(matrix[i][j] == 0){
                     matrix[0][j] = 0;
-                    matrix[i][0] = 0;
+                    matrix[i][0] = 0; 
                 }
             }
         }
-        // using marker modify the inner elements
         for(int i=1;i<m;i++){
             for(int j=1;j<n;j++){
                 if(matrix[i][0] == 0 || matrix[0][j] == 0){
@@ -27,13 +32,12 @@ public:
                 }
             }
         }
-        // now make the 0th row and column zeroes if it contain 0;
-        if(row0){
+        if(row0 == true){
             for(int j=0;j<n;j++){
                 matrix[0][j] = 0;
             }
         }
-        if(col0){
+        if(col0 == true){
             for(int i=0;i<m;i++){
                 matrix[i][0] = 0;
             }

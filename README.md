@@ -177,6 +177,7 @@
 | [0242-valid-anagram](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0392-is-subsequence) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1250-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -231,6 +232,7 @@
 | [0011-container-with-most-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
@@ -248,6 +250,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -325,6 +328,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
 | ------- |

@@ -1,13 +1,17 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
+        nums.push_back(-1);
         int n = nums.size();
-        vector<int> visit(n+1,0);
-        for(int val:nums){
-            visit[val] = 1;
+        int i=0;
+        while(i<n){
+            if(nums[i] == -1 || nums[i] == i) i++;
+            else{
+                swap(nums[i],nums[nums[i]]);
+            }
         }
-        for(int i=0;i<=n;i++){
-            if(visit[i]!=1) return i;
+        for(int i=0;i<n;i++){
+            if(nums[i] == -1) return i;
         }
         return -1;
     }

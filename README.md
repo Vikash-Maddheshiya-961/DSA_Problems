@@ -30,6 +30,7 @@
 | [0069-sqrtx](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0779-k-th-symbol-in-grammar) |
@@ -56,6 +57,7 @@
 | [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -126,6 +128,7 @@
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0377-combination-sum-iv) |
@@ -199,6 +202,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
@@ -315,6 +319,7 @@
 | [0088-merge-sorted-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1288-remove-covered-intervals) |
@@ -361,6 +366,7 @@
 | [0078-subsets](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |

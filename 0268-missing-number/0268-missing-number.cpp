@@ -6,13 +6,15 @@ public:
         int i=0;
         while(i<n){
             if(nums[i] == -1 || nums[i] == i) i++;
-            else{
-                swap(nums[i],nums[nums[i]]);
+            else swap(nums[i],nums[nums[i]]);
+        }
+        int missing;
+        for(int i=0;i<n;i++){
+            if(nums[i] == -1){
+                missing = i;
+                break;
             }
         }
-        for(int i=0;i<n;i++){
-            if(nums[i] == -1) return i;
-        }
-        return -1;
+        return missing;
     }
 };

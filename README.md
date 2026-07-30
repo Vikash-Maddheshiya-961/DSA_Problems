@@ -133,6 +133,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0852-peak-index-in-a-mountain-array) |

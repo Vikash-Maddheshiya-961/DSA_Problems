@@ -2,16 +2,12 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
         int n = nums.size();
-        vector<int> temp;
-        temp.push_back(nums[0]);
-        int prev= nums[0];
+        vector<int> dummy;
+        dummy.push_back(nums[0]);
         for(int i=1;i<n;i++){
-            if(nums[i]!=prev){
-                temp.push_back(nums[i]);
-                prev = nums[i];
-            }
+            if(dummy.back()!=nums[i]) dummy.push_back(nums[i]);
         }
-        nums = temp;
-        return nums.size();
+        nums = dummy;
+        return dummy.size();
     }
 };

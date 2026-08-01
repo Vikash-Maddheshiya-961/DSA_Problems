@@ -21,17 +21,15 @@ public:
                 Y_after[i] = Y_after[i+1];
             }
         }
-        vector<int> penalty(n+1);
+        // finding penaltyi for each hour
+        int min_penalty = INT_MAX;
         for(int i=0;i<=n;i++){
-            penalty[i] = N_before[i] + Y_after[i];
+            N_before[i] = N_before[i] + Y_after[i];
+            if(min_penalty > N_before[i]) min_penalty = N_before[i];
         }
-        int min_penalty = penalty[0];
-        for(int i=1;i<=n;i++){
-            if(min_penalty > penalty[i]) min_penalty = penalty[i];
-        }
-        int closing_hour;
+        // now finding the earliest shop closing time
         for(int i=0;i<=n;i++){
-            if(penalty[i] == min_penalty){
+            if(N_before[i] == min_penalty){
                 return i;
             }
         }

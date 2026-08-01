@@ -143,6 +143,7 @@
 | [0485-max-consecutive-ones](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-design-circular-queue](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0860-design-circular-queue) |
 | [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
@@ -443,6 +444,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2483-minimum-penalty-for-a-shop) |

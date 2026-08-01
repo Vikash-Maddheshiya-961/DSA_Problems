@@ -136,6 +136,7 @@
 | [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0377-combination-sum-iv](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0377-combination-sum-iv) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -260,6 +261,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0860-design-circular-queue](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
@@ -446,6 +448,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1480-running-sum-of-1d-array) |

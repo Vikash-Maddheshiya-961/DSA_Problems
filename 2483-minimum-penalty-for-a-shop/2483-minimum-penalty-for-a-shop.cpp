@@ -4,8 +4,9 @@ public:
         int n = customers.length();
         vector<int> pre(n+1); //  Number of N before Kth hour
         pre[0] = 0;
+        int count;
         for(int i=1;i<=n;i++){
-            int count = 0;
+            count = 0;
             if(customers[i-1] == 'N'){
                 count++;
             }
@@ -14,7 +15,7 @@ public:
         vector<int> suf(n+1); //  Number of Y after and including Kth hour
         suf[n] = 0;
         for(int i=n-1;i>=0;i--){
-            int count = 0;
+            count = 0;
             if(customers[i] == 'Y'){
                 count++;
             }

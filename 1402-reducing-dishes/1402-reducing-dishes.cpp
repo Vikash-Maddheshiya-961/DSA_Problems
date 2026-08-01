@@ -16,9 +16,11 @@ public:
             }
         }
         if(idx == -1) return 0;
+        int x = 1;
         int max_sum = 0;
         for(int i=idx;i<n;i++){
-            max_sum += (i-idx+1) * satisfaction[i];
+            max_sum += x * satisfaction[i];
+            x++;
         }
         return max_sum;
     }

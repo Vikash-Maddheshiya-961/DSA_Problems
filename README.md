@@ -153,6 +153,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1402-reducing-dishes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -247,6 +248,7 @@
 | [0455-assign-cookies](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1402-reducing-dishes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
@@ -314,6 +316,7 @@
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1250-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1402-reducing-dishes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
@@ -335,6 +338,7 @@
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1402-reducing-dishes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |

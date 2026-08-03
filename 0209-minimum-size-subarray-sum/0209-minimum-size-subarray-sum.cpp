@@ -8,8 +8,8 @@ public:
         int len;
         int min_len = INT_MAX;
         while(j<n){
-            sum += nums[j];
-            while(sum >= target){
+            sum += nums[j]; // window expansion
+            while(sum >= target){ // window shrink
                 len = j-i+1;
                 min_len = min(min_len,len);
                 sum -= nums[i];

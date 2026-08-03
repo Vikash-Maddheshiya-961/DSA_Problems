@@ -159,6 +159,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1402-reducing-dishes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -214,6 +215,7 @@
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1052-grumpy-bookstore-owner) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search

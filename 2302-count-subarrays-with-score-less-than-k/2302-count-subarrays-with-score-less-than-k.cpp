@@ -8,9 +8,9 @@ public:
         int j=0;
         long long score = 0;
         while(j<n){
-            sum += nums[j];
+            sum += nums[j]; // window expansion
             score = sum * (j-i+1);
-            while(i<=j && score >= k){
+            while(i<=j && score >= k){ //  window contraction
                 sum -= nums[i];
                 i++;
                 score = sum * (j-i+1);

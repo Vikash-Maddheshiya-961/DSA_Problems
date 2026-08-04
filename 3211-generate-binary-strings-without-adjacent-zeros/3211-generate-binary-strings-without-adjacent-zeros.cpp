@@ -6,7 +6,7 @@ public:
             res.push_back(ans);
             return;
         }
-        if(ans.back() != '0') solve(ans + '0',n);
+        if(ans[ans.length()-1] != '0') solve(ans + '0',n);
         solve(ans + '1',n);
         return;
     }

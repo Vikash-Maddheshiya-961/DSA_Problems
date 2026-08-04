@@ -18,6 +18,7 @@
 | [0509-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1922-count-good-numbers) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1922-count-good-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3312-sorted-gcd-pair-queries) |

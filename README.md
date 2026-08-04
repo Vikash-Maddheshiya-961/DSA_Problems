@@ -217,6 +217,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -426,6 +427,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
 |  |
@@ -509,6 +511,7 @@
 | [0078-subsets](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0216-combination-sum-iii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Number Theory
 |  |
 | ------- |

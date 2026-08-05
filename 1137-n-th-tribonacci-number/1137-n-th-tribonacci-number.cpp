@@ -8,8 +8,8 @@ public:
         return res[n] = solve(n-1) + solve(n-2) + solve(n-3);
     }
     int tribonacci(int n) {
+        // recursive approach
         res.assign(n+1,-1);
         return solve(n);
-        // recursive approach
     }
 };

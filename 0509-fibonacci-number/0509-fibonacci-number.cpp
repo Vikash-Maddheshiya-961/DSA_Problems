@@ -1,17 +1,13 @@
 class Solution {
 public:
-    vector<int> fibonacci;
-    int solve(int n){
-        if(n == 0) return fibonacci[0];
-        if(n == 1) return fibonacci[1];
-        if(fibonacci[n] != -1) return fibonacci[n];
-        fibonacci[n] = solve(n-1) + solve(n-2);
-        return fibonacci[n];
+    vector<int> res;
+    int fibo(int n){
+        if(n<=1) return n;
+        if(res[n] != -1) return res[n];
+        return res[n] = fibo(n-1) + fibo(n-2);
     }
     int fib(int n) {
-        fibonacci.assign(n+2,-1);
-        fibonacci[0] = 0;
-        fibonacci[1] = 1;
-        return solve(n);
+        res.assign(n+1,-1);
+        return fibo(n);
     }
 };

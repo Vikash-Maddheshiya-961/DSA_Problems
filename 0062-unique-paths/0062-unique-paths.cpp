@@ -1,14 +1,12 @@
 class Solution {
 public:
-    int tot_path(int row,int col, int m,int n,vector<vector<int>>& path){
-        if(row == m-1) return 1;
-        if(col == n-1) return 1;
-        if(path[row][col] != 0) return path[row][col];
-        path[row][col] = tot_path(row+1,col,m,n,path) + tot_path(row,col+1,m,n,path);
-        return path[row][col];
+    int solve(vector<vector<int>>& grid,int i,int j){
+        if(i == 0 || j == 0) return 1;
+        if(grid[i][j]!=-1) return grid[i][j];
+        return grid[i][j] = solve(grid,i,j-1) + solve(grid,i-1,j);
     }
     int uniquePaths(int m, int n) {
-        vector<vector<int>> path(m, vector<int>(n,0));
-        return tot_path(0,0,m,n,path);
+        vector<vector<int>> grid(m,vector<int>(n,-1));
+        return solve(grid,m-1,n-1);
     }
 };

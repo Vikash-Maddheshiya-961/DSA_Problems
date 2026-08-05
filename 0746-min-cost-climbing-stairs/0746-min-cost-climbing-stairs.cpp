@@ -1,13 +1,21 @@
 class Solution {
 public:
-    int solve(vector<int>& res,vector<int>& cost,int i){
-        if(i < 0) return 0;
-        if(res[i] != -1) return res[i];
-        return res[i] = cost[i] + min(solve(res,cost,i-1),solve(res,cost,i-2));
-    }
     int minCostClimbingStairs(vector<int>& cost) {
         int n = cost.size();
         vector<int> res(n,-1);
-        return min(solve(res,cost,n-1), solve(res,cost,n-2));
+        // tabulation / iterative
+        res[n-1] = cost[n-1];
+        for(int i=n-2;i>=0;i--){
+            int j1 = i+1;
+            int j2 = i+2;
+            int c1,c2;
+            if(j1 >= n) c1 = 0;
+            else c1 = res[j1];
+
+            if(j2 >= n) c2 = 0;
+            else c2 = res[j2];
+            res[i] = cost[i] + min(c1,c2);
+        }
+        return min(res[0],res[1]);
     }
 };

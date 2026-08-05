@@ -1,15 +1,13 @@
 class Solution {
 public:
-    vector<int> res;
-    int solve(int n){
-        if(n == 0) return 0;
-        if(n==1 || n==2) return 1;
-        if(res[n]!=-1) return res[n];
-        return res[n] = solve(n-1) + solve(n-2) + solve(n-3);
-    }
     int tribonacci(int n) {
-        // recursive approach
-        res.assign(n+1,-1);
-        return solve(n);
+        // tabulation / iterative approach (bottom up approach)
+        int res[n+1];
+        for(int i=0;i<=n;i++){
+            if(i == 0) res[i] = 0;
+            else if(i == 1 || i == 2) res[i] = 1;
+            else res[i] = res[i-1] + res[i-2] + res[i-3];
+        }
+        return res[n];
     }
 };

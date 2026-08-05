@@ -4,18 +4,10 @@ public:
         int n = cost.size();
         vector<int> res(n,-1);
         // tabulation / iterative
-        res[n-1] = cost[n-1];
-        for(int i=n-2;i>=0;i--){
-            int j1 = i+1;
-            int j2 = i+2;
-            int c1,c2;
-            if(j1 >= n) c1 = 0;
-            else c1 = res[j1];
-
-            if(j2 >= n) c2 = 0;
-            else c2 = res[j2];
-            res[i] = cost[i] + min(c1,c2);
+        // cost[i] = cost[i] + min(cost[i-1],cost[i-2]);
+        for(int i=2;i<n;i++){
+            cost[i] += min(cost[i-1],cost[i-2]);
         }
-        return min(res[0],res[1]);
+        return min(cost[n-2],cost[n-1]);
     }
 };

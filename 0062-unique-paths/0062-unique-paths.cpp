@@ -1,7 +1,8 @@
 class Solution {
 public:
     int solve(vector<vector<int>>& grid,int i,int j){
-        if(i == 0 || j == 0) return 1;
+        if(i == 0 && j == 0) return 1;
+        if(i < 0 || j < 0) return 0;
         if(grid[i][j]!=-1) return grid[i][j];
         return grid[i][j] = solve(grid,i,j-1) + solve(grid,i-1,j);
     }

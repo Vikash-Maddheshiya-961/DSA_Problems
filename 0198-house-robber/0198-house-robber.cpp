@@ -1,19 +1,17 @@
 class Solution {
 public:
-    int solve(vector<int>& res,vector<int>& nums,int i){
+    vector<int> res;
+    int solve(vector<int>& nums,int i){
         int n = nums.size();
-        if(i>=n) return 0;
+        if(i == n-1) return nums[i];
+        if(i == n-2) return max(nums[i],nums[i+1]);
         if(res[i] != -1) return res[i];
-        int maxi = nums[i];
-        for(int idx = i+2;idx<n;idx++){
-            int s = solve(res,nums,idx);
-            maxi = max(maxi,nums[i] + s);
-        }
-        return res[i] = maxi;
+        
+        return res[i] = max(nums[i] + solve(nums,i+2),solve(nums,i+1));
     }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> res(n,-1);
-        return max(solve(res,nums,0),solve(res,nums,1));
+        res.assign(n,-1);
+        return solve(nums,0);
     }
 };

@@ -2,29 +2,28 @@ class Solution {
 public:
     unordered_map<int,int> mp;
     int res[2001][2001];
-    bool solve(vector<int>& stones,int curr_stone_idx,int prevjmp){
+    bool solve(vector<int>& stones,int currstone,int prevjump){
         int n = stones.size();
-        if(curr_stone_idx == n-1){
+        if(currstone == n-1){
             return true;
         }
-        if(res[curr_stone_idx][prevjmp] != -1) return res[curr_stone_idx][prevjmp];
-        bool result = false;
-        for(int nextjmp = prevjmp-1; nextjmp <= prevjmp+1; nextjmp++){
-            if(nextjmp <= 0) continue;
-            int next_stone = stones[curr_stone_idx] + nextjmp;
-            if(mp.find(next_stone) != mp.end()){
-                result = result || solve(stones,mp[next_stone],nextjmp);
+        if(res[currstone][prevjump] != -1) return res[currstone][prevjump];
+        int result = false;
+        for(int nextjump = prevjump-1; nextjump <= prevjump+1; nextjump++){
+            if(nextjump <= 0) continue;
+            int nextstone = stones[currstone] + nextjump;
+            if(mp.find(nextstone) != mp.end()){
+                result = result || solve(stones,mp[nextstone],nextjump);
             }
         }
-        return res[curr_stone_idx][prevjmp] = result;
+        return res[currstone][prevjump] = result;
     }
     bool canCross(vector<int>& stones) {
-        if(stones[1] != 1) return false;
         int n = stones.size();
         for(int i=0;i<n;i++){
             mp[stones[i]] = i;
         }
-        memset(res , -1, sizeof(res));
+        memset(res, -1, sizeof(res));
         return solve(stones,0,0);
     }
 };

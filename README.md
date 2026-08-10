@@ -149,6 +149,7 @@
 | [0283-move-zeroes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0403-frog-jump) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -355,6 +356,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0403-frog-jump) |
@@ -444,6 +446,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -536,4 +539,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

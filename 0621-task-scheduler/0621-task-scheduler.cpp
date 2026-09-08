@@ -13,30 +13,32 @@ public:
                 pq.push(mp[i]);
             }
         }
-        vector<int> v;
 
-        int timer = k + 1;
-        int count = 0;
+        int time = 0;
 
-        while(!pq.empty() || v.size()!=0){
-            if(!pq.empty()){
-                int freq = pq.top()-1;
-                pq.pop();
-                if(freq!=0) v.push_back(freq);
-            }
+        while(!pq.empty()){
 
-            timer--;
+            vector<int> v;
 
-            if(timer == 0){
-                for(int freq:v){
-                    pq.push(freq);
+            for(int i=1;i<=k+1;i++){
+                if(!pq.empty()){
+                    int freq = pq.top()-1;
+                    pq.pop();
+                    v.push_back(freq);
                 }
-                v.clear();
-                count += k+1;
-                timer = k + 1;
+                else break;
             }
+
+            for(int freq:v){
+                if(freq > 0) pq.push(freq);
+            }
+
+            if(pq.empty()){
+                time += v.size();
+            }
+            else time += k+1;
         }
-        count += (k+1)-timer;
-        return count;
+
+        return time;
     }
 };

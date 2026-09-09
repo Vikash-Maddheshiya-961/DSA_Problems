@@ -1,14 +1,14 @@
 class Solution {
 public:
     void wiggleSort(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
+        sort(nums.begin(),nums.end()); // O(n*logn)
         int n = nums.size();
-        vector<int> ans(n);
+        vector<int> ans(n); // SC:O(n)
         
         int odd = 1;
         int even = 0;
 
-        for(int i=n-1;i>=0;i--){
+        for(int i=n-1;i>=0;i--){ // O(n)
             if(odd < n){
                 ans[odd] = nums[i];
                 odd += 2;
@@ -21,5 +21,8 @@ public:
 
         nums = ans;
         return;
+
+        // TC : O(n*logn)
+        // SC : O(n)
     }
 };

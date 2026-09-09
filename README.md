@@ -570,4 +570,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

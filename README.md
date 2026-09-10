@@ -9,6 +9,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0860-design-circular-queue](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |

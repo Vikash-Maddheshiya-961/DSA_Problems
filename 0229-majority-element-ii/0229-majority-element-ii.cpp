@@ -7,12 +7,8 @@ public:
         vector<int> ans;
 
         int curr_count = 0;
-        int ele;
+        int ele = nums[0];
         for(int i=0;i<n;i++){
-            if(curr_count == 0){
-                ele = nums[i];
-            }
-
             if(nums[i] != ele){
                 if(curr_count >= count){
                     ans.push_back(ele);

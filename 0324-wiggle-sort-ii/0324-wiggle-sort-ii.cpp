@@ -1,28 +1,38 @@
 class Solution {
 public:
     void wiggleSort(vector<int>& nums) {
-        sort(nums.begin(),nums.end()); // O(n*logn)
         int n = nums.size();
-        vector<int> ans(n); // SC:O(n)
-        
-        int odd = 1;
-        int even = 0;
+        auto middle = nums.begin() + n/2;
+        nth_element(nums.begin(),middle,nums.end());
+        int median = *middle;
 
-        for(int i=n-1;i>=0;i--){ // O(n)
-            if(odd < n){
-                ans[odd] = nums[i];
-                odd += 2;
+
+        auto virtualidx = [&](int &mid){
+            return (1 + 2 * mid) % (n | 1);
+        };
+
+        // dutch flag algo
+        int lo = 0;
+        int mid = 0;
+        int hi = n-1;
+
+        while(mid <= hi){
+            int vlo = virtualidx(lo);
+            int vmid = virtualidx(mid);
+            int vhi = virtualidx(hi);
+
+            if(nums[vmid] > median){
+                swap(nums[vmid],nums[vlo]);
+                lo++;
+                mid++;
             }
-            else{
-                ans[even] = nums[i];
-                even += 2;
+            else if(nums[vmid] < median){
+                swap(nums[vmid],nums[vhi]);
+                hi--;
             }
+            else mid++;
         }
-
-        nums = ans;
+        
         return;
-
-        // TC : O(n*logn)
-        // SC : O(n)
     }
 };

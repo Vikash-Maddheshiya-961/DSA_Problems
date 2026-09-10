@@ -26,7 +26,9 @@ public:
         }
 
         if(p1 == head){
+            ListNode* temp = head;
             head = head -> next;
+            delete temp;
             return head;
         }
 

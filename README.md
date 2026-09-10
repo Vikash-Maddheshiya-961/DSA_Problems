@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0860-design-circular-queue](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0860-design-circular-queue) |

@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0860-design-circular-queue](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
@@ -15,6 +16,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |

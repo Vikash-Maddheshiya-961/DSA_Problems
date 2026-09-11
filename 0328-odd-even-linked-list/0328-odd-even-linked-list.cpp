@@ -19,11 +19,8 @@ public:
         ListNode *p1 = h1;
         ListNode *p2 = h2;
 
-        while(p1 != NULL && p2!=NULL){
+        while(p1->next != NULL && p2->next != NULL){
             p1 -> next = p2 -> next;
-            if(p1 -> next == NULL){
-                break;
-            }
             p1 = p1 -> next;
             p2 -> next = p1 -> next;
             p2 = p2->next;

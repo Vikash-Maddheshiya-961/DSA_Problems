@@ -17,11 +17,23 @@ public:
         ListNode* ptr = NULL;
         int carry = 0;
 
-        while(ptr1 && ptr2){
-            int sum = ptr1->val + ptr2->val + carry;
+        while(ptr1 || ptr2 || carry != 0){
+            int sum = carry;
+
+            if(ptr1){
+                sum += ptr1 -> val;
+                ptr1 = ptr1 -> next;
+            }
+
+            if(ptr2){
+                sum += ptr2 -> val;
+                ptr2 = ptr2 -> next;
+            }
+
             int fraction = sum % 10;
             carry = sum / 10;
             ListNode* temp = new ListNode(fraction);
+
             if(head == NULL){
                 head = temp;
                 ptr = head;
@@ -30,46 +42,6 @@ public:
                 ptr -> next = temp;
                 ptr = ptr->next;
             }
-            ptr1 = ptr1->next;
-            ptr2 = ptr2->next;
-        }
-
-        while(ptr1){
-            int sum = ptr1->val + carry;
-            int fraction = sum % 10;
-            carry = sum / 10;
-            ListNode* temp = new ListNode(fraction);
-            if(head == NULL){
-                head = temp;
-                ptr = head;
-            }
-            else{
-                ptr -> next = temp;
-                ptr = ptr->next;
-            }
-            ptr1 = ptr1->next;
-        }
-
-        while(ptr2){
-            int sum = ptr2->val + carry;
-            int fraction = sum % 10;
-            carry = sum / 10;
-            ListNode* temp = new ListNode(fraction);
-            if(head == NULL){
-                head = temp;
-                ptr = head;
-            }
-            else{
-                ptr -> next = temp;
-                ptr = ptr->next;
-            }
-            ptr2 = ptr2->next;
-        }
-
-        if(carry != 0){
-            ListNode* temp = new ListNode(carry);
-            ptr -> next = temp;
-            ptr = ptr -> next;
         }
 
         return head;

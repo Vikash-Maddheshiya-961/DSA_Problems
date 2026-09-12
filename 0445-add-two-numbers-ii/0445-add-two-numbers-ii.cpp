@@ -10,54 +10,58 @@
  */
 class Solution {
 public:
-    ListNode* reverselist(ListNode* head){
-        ListNode* prev = NULL;
-        ListNode* curr = head;
-        while(curr){
-            ListNode *nxt = curr->next;
-            curr -> next = prev;
-            prev = curr;
-            curr = nxt;
+    int length(ListNode* ptr){
+        int n = 0;
+        while(ptr){
+            n++;
+            ptr = ptr->next;
         }
-        return prev;
+        return n;
     }
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        l1 = reverselist(l1);
-        l2 = reverselist(l2);
 
-        ListNode* head = NULL;
-        ListNode* ptr = NULL;
-        int carry = 0;
-        int sum,fraction;
-        while(l1 || l2 || carry != 0){
-            sum = carry;
+    int carry;
+    ListNode* solve(ListNode* l1, ListNode* l2,int len1, int len2){
+        if(!l1 && !l2) return NULL;
 
-            if(l1){
-                sum += l1 -> val;
-                l1 = l1 -> next;
-            }
+        ListNode* temp = NULL;
+        int val1 = 0, val2 = 0;
 
-            if(l2){
-                sum += l2 -> val;
-                l2 = l2 -> next;
-            }
-
-            fraction = sum % 10;
-            carry = sum / 10;
-            ListNode* temp = new ListNode(fraction);
-
-            if(head == NULL){
-                head = temp;
-                ptr = head;
-            }
-            else{
-                ptr -> next = temp;
-                ptr = ptr->next;
-            }
+        if(len1 > len2){
+            temp = solve(l1->next,l2,len1-1,len2);
+            val1 = l1 -> val;
+        }
+        else if(len1 < len2){
+            temp = solve(l1,l2->next,len1,len2-1);
+            val2 = l2 -> val;
+        }
+        else{
+            temp = solve(l1->next,l2->next,len1-1,len2-1);
+            val1 = l1 -> val;
+            val2 = l2 -> val;
         }
 
-        head = reverselist(head);
-        return head;
+        int sum = val1 + val2 + carry;
+        carry = sum / 10;
 
+        ListNode* curr_node = new ListNode(sum % 10);
+        curr_node -> next = temp;
+
+        return curr_node;
+    }
+
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        int len1 = length(l1);
+        int len2 = length(l2);
+        carry = 0;
+        
+        ListNode* head = solve(l1,l2,len1,len2);
+
+        if(carry > 0){
+            ListNode* temp = new ListNode(carry);
+            temp -> next = head;
+            head = temp; 
+        }
+
+        return head;
     }
 };

@@ -12,7 +12,7 @@ class Solution {
 public:
     void reorderList(ListNode* head) {
         if(!head || !head->next || !head->next->next) return;
-        
+
         ListNode* slow = head;
         ListNode* fast = head;
 
@@ -23,15 +23,9 @@ public:
             if(slow == fast) break;
         }
 
-        ListNode* pointer = head;
-
-        while(pointer->next != slow){
-            pointer = pointer->next;
-        }
-        pointer-> next = NULL;
-
+        ListNode* curr = slow -> next;
+        slow -> next = NULL;
         ListNode* prev = NULL;
-        ListNode* curr = slow;
 
         while(curr!=NULL){
             ListNode* nxt = curr->next;
@@ -43,19 +37,13 @@ public:
         ListNode* ptr1 = head;
         ListNode* ptr2 = prev;
 
-        while(ptr1 != NULL && ptr2 != NULL){
+        while(ptr2 != NULL){
             ListNode *temp = ptr1->next;
             ptr1->next = ptr2;
             ptr1 = temp;
             temp = ptr2->next;
             ptr2->next = ptr1;
             ptr2 = temp;
-        }
-
-        if(ptr2!=NULL){
-            ptr1 = head;
-            while(ptr1 -> next != NULL) ptr1 = ptr1 -> next;
-            ptr1 -> next = ptr2;
         }
         
         return;

@@ -10,39 +10,44 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        if(list1==NULL && list2==NULL) return NULL;
-        if(list1!=NULL && list2==NULL) return list1;
-        if(list2!=NULL && list1==NULL) return list2;
-        ListNode* head;
-        ListNode* tail;
-        if(list1->val <= list2->val){
-            head = list1;
-            tail = list1;
-            list1 = list1->next;
-        }else{
-            head = tail = list2;
-            list2 = list2->next;
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+        if(!l1) return l2;
+        if(!l2) return l1;
+
+        ListNode* head = NULL;
+        ListNode* tail = NULL;
+        if(l1 -> val <= l2 -> val){
+            head = l1;
+            tail = l1;
+            l1 = l1 -> next;
+        } 
+        else{
+            head = l2;
+            tail = l2;
+            l2 = l2 -> next;
         }
 
-        while(list1!=NULL && list2!=NULL){
-            if(list1->val <= list2->val){
-                tail->next = list1;
-                tail = list1;
-                list1 = list1->next;
-            }else{
-                tail->next = list2;
-                tail = list2;
-                list2 = list2->next;
+        while(l1 && l2){
+            if(l1 -> val <= l2->val){
+                tail -> next = l1;
+                tail = l1;
+                l1 = l1 -> next;
+            }
+            else{
+                tail -> next = l2;
+                tail = l2;
+                l2 = l2 -> next;
             }
         }
-        if(list1!=NULL){
-            tail->next = list1;
-        }
-        if(list2!=NULL){
-            tail->next = list2;
+
+        if(l1){
+            tail -> next = l1;
         }
 
+        if(l2){
+            tail -> next = l2;
+        }
+        
         return head;
     }
 };

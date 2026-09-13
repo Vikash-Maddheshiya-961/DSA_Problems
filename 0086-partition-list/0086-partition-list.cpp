@@ -18,18 +18,16 @@ public:
         ListNode* tail1 = &head1;
         ListNode* tail2 = &head2;
 
-        ListNode* ptr = head;
-
-        while(ptr){
-            if(ptr-> val < x){
-                tail1 -> next = ptr;
+        while(head){
+            if(head-> val < x){
+                tail1 -> next = head;
                 tail1 = tail1 -> next;
             }
             else{
-                tail2 -> next = ptr;
+                tail2 -> next = head;
                 tail2 = tail2 -> next;
             }
-            ptr = ptr -> next;
+            head = head -> next;
         }
 
         tail2 -> next = NULL;

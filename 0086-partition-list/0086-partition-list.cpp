@@ -13,49 +13,29 @@ public:
     ListNode* partition(ListNode* head, int x) {
         if(!head || !head->next) return head;
 
-        ListNode* head1 = NULL;
-        ListNode* tail1 = NULL;
-        ListNode* head2 = NULL;
-        ListNode* tail2 = NULL;
+        ListNode head1(0);
+        ListNode head2(0);
+        ListNode* tail1 = &head1;
+        ListNode* tail2 = &head2;
 
         ListNode* ptr = head;
 
         while(ptr){
             if(ptr-> val < x){
-                ListNode* temp = ptr;
-                ptr = ptr->next;
-                if(head1 == NULL){
-                    head1 = temp;
-                    tail1 = head1;
-                    tail1->next = NULL;
-                }
-                else{
-                    tail1->next = temp;
-                    tail1 = tail1->next;
-                    tail1 -> next = NULL;
-                }
+                tail1 -> next = ptr;
+                tail1 = tail1 -> next;
             }
             else{
-                ListNode* temp = ptr;
-                ptr = ptr->next;
-                if(head2 == NULL){
-                    head2 = temp;
-                    tail2 = head2;
-                    tail2->next = NULL;
-                }
-                else{
-                    tail2 -> next = temp;
-                    tail2 = tail2 -> next;
-                    tail2 -> next = NULL;
-                }
+                tail2 -> next = ptr;
+                tail2 = tail2 -> next;
             }
+            ptr = ptr -> next;
         }
 
-        if(head1){
-            tail1 -> next = head2;
-            return head1;
-        }
+        tail2 -> next = NULL;
+        
+        tail1 -> next = head2.next;
 
-        return head2;
+        return head1.next;
     }
 };

@@ -372,6 +372,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -391,6 +392,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -515,6 +517,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2685-count-the-number-of-complete-components) |

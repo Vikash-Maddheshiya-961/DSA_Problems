@@ -13,16 +13,13 @@ class Solution {
 public:
     int idx = 0;
     TreeNode* solve(vector<int>& v,int ub){
-        if(idx >= v.size()) return NULL;
-        if(v[idx] < ub){
-            TreeNode* root = new TreeNode(v[idx]);
-            idx++;
-            root->left = solve(v,root->val);
-            root->right = solve(v,ub);
-            return root;
-        }
-
-        return NULL;
+        if(idx >= v.size() || v[idx] > ub) return NULL;
+        
+        TreeNode* root = new TreeNode(v[idx]);
+        idx++;
+        root->left = solve(v,root->val);
+        root->right = solve(v,ub);
+        return root;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
         return solve(preorder,INT_MAX);

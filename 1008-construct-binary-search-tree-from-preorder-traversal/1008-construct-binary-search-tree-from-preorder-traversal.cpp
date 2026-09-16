@@ -11,17 +11,16 @@
  */
 class Solution {
 public:
-    int idx = 0;
-    TreeNode* solve(vector<int>& v,int ub){
+    TreeNode* solve(vector<int>& v,int ub,int &idx){
         if(idx >= v.size() || v[idx] > ub) return NULL;
-        
-        TreeNode* root = new TreeNode(v[idx]);
-        idx++;
-        root->left = solve(v,root->val);
-        root->right = solve(v,ub);
+
+        TreeNode* root = new TreeNode(v[idx++]);
+        root->left = solve(v,root->val,idx);
+        root->right = solve(v,ub,idx);
         return root;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        return solve(preorder,INT_MAX);
+        int idx = 0;
+        return solve(preorder,INT_MAX,idx);
     }
 };

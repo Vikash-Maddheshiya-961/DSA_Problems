@@ -712,6 +712,7 @@
 | [0141-linked-list-cycle](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 ## DP on Trees
 |  |
 | ------- |
@@ -730,4 +731,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0173-binary-search-tree-iterator) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

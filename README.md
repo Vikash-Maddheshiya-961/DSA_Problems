@@ -55,6 +55,7 @@
 | [0069-sqrtx](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0441-arranging-coins) |
@@ -89,6 +90,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0229-majority-element-ii) |
@@ -128,6 +130,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
@@ -708,6 +711,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0202-happy-number) |
 ## DP on Trees
 |  |
 | ------- |

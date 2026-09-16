@@ -22,11 +22,12 @@ public:
         vector<int> v;
         inorder(root,v);
         int n = v.size();
-        for(int i=0;i<n;i++){
-            int target = k - v[i];
-            for(int j=i+1;j<n;j++){
-                if(v[j] == target) return true;
-            }
+        int i=0,j=n-1;
+        while(i<j){
+            int sum = v[i] + v[j];
+            if(sum == k) return true;
+            else if(sum > k) j--;
+            else i++;
         }
         return false;
     }

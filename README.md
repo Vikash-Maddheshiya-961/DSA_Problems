@@ -214,6 +214,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1109-corporate-flight-bookings) |
@@ -372,6 +373,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
@@ -397,6 +399,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -440,6 +443,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -453,6 +457,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -520,6 +525,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0042-trapping-rain-water) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |

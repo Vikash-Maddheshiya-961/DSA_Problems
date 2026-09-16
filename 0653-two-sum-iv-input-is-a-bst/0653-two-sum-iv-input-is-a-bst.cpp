@@ -9,26 +9,63 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
-public:
-    void inorder(TreeNode* root,vector<int>&v){
-        if(root == NULL) return;
-        inorder(root->left,v);
-        v.push_back(root->val);
-        inorder(root->right,v);
+class bstiterator{
+private:
+    void push1(TreeNode* curr){
+        while(curr){
+            s1.push(curr);
+            curr = curr -> left;
+        }
         return;
     }
-    bool findTarget(TreeNode* root, int k) {
-        vector<int> v;
-        inorder(root,v);
-        int n = v.size();
-        int i=0,j=n-1;
-        while(i<j){
-            int sum = v[i] + v[j];
-            if(sum == k) return true;
-            else if(sum > k) j--;
-            else i++;
+    void push2(TreeNode* curr){
+        while(curr){
+            s2.push(curr);
+            curr = curr -> right;
         }
+        return;
+    }
+public:
+    stack<TreeNode*> s1;// next
+    stack<TreeNode*> s2;// before
+    bstiterator(TreeNode* root){
+        push1(root);
+        push2(root);
+    }
+    int next(){
+        TreeNode* curr = s1.top();
+        s1.pop();
+        push1(curr->right);
+        return curr->val;
+    }
+    int before(){
+        TreeNode* curr = s2.top();
+        s2.pop();
+        push2(curr->left);
+        return curr->val;
+    }
+    bool isnext(){
+        return !s1.empty();
+    }
+    bool isbefore(){
+        return !s2.empty();
+    }
+};
+class Solution {
+public:
+    bool findTarget(TreeNode* root, int k) {
+        bstiterator bst(root);
+        int i = bst.next();
+        int j = bst.before();
+        while(i<j){
+            int sum = i+j;
+            if(sum == k) return true;
+            else if(sum < k){
+                i = bst.next();
+            }
+            else j = bst.before();
+        }
+
         return false;
     }
 };

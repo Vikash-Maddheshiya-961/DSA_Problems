@@ -11,22 +11,16 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root,vector<int>&ans){
-        if(root == NULL) return;
-        inorder(root->left,ans);
-        ans.push_back(root->val);
-        inorder(root->right,ans);
-        return;
-    }
-    bool is_sorted(vector<int>&v){
-        for(int i=0;i<v.size()-1;i++){
-            if(v[i] >= v[i+1]) return false;
+    bool solve(TreeNode* root,long long lo,long long hi){
+        if(root == NULL) return true;
+        if(root->val >= lo && root->val <=hi){
+            bool left = solve(root->left,lo,(long long)root->val-1);
+            bool right = solve(root->right,(long long)root->val+1,hi);
+            return left && right;
         }
-        return true;
+        return false;
     }
     bool isValidBST(TreeNode* root) {
-        vector<int> ans;
-        inorder(root,ans);
-        return is_sorted(ans);
+        return solve(root,(long long)INT_MIN,(long long)INT_MAX);
     }
 };

@@ -393,6 +393,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0173-binary-search-tree-iterator) |
@@ -417,6 +418,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -442,6 +444,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0173-binary-search-tree-iterator) |
@@ -486,6 +489,7 @@
 | [0118-pascals-triangle](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0368-largest-divisible-subset) |
@@ -720,6 +724,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Lifting
 |  |

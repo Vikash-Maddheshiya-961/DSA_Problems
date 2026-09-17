@@ -101,6 +101,7 @@
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -409,6 +410,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -430,6 +432,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -462,6 +465,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -534,6 +538,7 @@
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1402-reducing-dishes) |
@@ -602,6 +607,7 @@
 | [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |

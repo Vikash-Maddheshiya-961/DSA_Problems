@@ -57,6 +57,7 @@
 | [0066-plus-one](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
@@ -394,6 +395,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0100-same-tree) |
@@ -449,6 +451,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0100-same-tree) |
@@ -480,6 +483,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -502,6 +506,7 @@
 | [0062-unique-paths](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |

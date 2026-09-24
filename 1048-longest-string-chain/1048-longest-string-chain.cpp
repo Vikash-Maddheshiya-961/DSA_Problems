@@ -3,7 +3,7 @@ public:
     bool diffBy1(string &s1,string &s2){
         int n1 = s1.length();
         int n2 = s2.length();
-        if(n2-n1 != 1){
+        if(n2 != n1 + 1){
             return false;
         }
         int i=0,j=0;

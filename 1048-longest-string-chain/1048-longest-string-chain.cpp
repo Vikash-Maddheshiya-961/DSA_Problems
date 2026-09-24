@@ -25,8 +25,6 @@ public:
         sort(words.begin(),words.end(),[](string &s1,string &s2){
             return s1.length() < s2.length();
         });
-        for(string s:words) cout << s << " ";
-        cout << endl;
         vector<int> dp(n,1);
         int maxi = 1;
         for(int i=0;i<n;i++){
@@ -37,8 +35,6 @@ public:
             }
             maxi = max(maxi,dp[i]);
         }
-        for(int val:dp) cout<< val << " ";
-        cout << endl;
         return maxi;
     }
 };

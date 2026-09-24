@@ -14,6 +14,7 @@ public:
             int h = envelopes[i][1];
             if(h > ans.back()) ans.push_back(h);
             else {
+                // just greater element index than h
                 int index = lower_bound(ans.begin(),ans.end(),h) - ans.begin();
                 ans[index] = h;
             }

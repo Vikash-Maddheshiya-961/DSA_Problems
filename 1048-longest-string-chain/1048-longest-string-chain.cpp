@@ -7,20 +7,18 @@ public:
             return false;
         }
         int i=0,j=0;
-        int diff = 0;
         while(i<n1 && j<n2){
             if(s1[i] != s2[j]){
-                diff++;
                 j++;
             }
             else{
                 i++;
                 j++;
             }
-            if(diff > 1) return false;
         }
 
-        return true;
+        if(i == n1) return true;
+        return false;
     }
     int longestStrChain(vector<string>& words) {
         int n = words.size();

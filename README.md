@@ -218,6 +218,7 @@
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -526,6 +527,7 @@
 | [0403-frog-jump](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
@@ -786,4 +788,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0020-valid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

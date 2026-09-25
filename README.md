@@ -205,6 +205,7 @@
 | [0283-move-zeroes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
@@ -523,6 +524,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0368-largest-divisible-subset) |

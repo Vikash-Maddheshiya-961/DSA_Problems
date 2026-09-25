@@ -13,11 +13,11 @@ public:
         return dp[i][j] = mini_cost;
     }
     int minCost(int n, vector<int>& cuts) {
+        int m = cuts.size();
         cuts.insert(cuts.begin(),0);
         cuts.push_back(n);
-        int m = cuts.size();
         sort(cuts.begin(),cuts.end());
         vector<vector<int>> dp(m+1,vector<int>(m+1,-1));
-        return solve(cuts,1,m-2,dp);
+        return solve(cuts,1,m,dp);
     }
 };

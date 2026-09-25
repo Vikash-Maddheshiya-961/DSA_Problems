@@ -1,14 +1,13 @@
 class Solution {
 public:
-    int res[301][301];
-    int solve(vector<int>& nums,int i,int j){
+    int solve(vector<int>& nums,int i,int j,vector<vector<int>> &res){
         if(i > j) return 0;
 
         if(res[i][j] != -1) return res[i][j];
         int max_coin = INT_MIN;
         for(int k=i;k<=j;k++){
 
-            int curr_coin = nums[i-1]*nums[k]*nums[j+1] + solve(nums,i,k-1) + solve(nums,k+1,j);
+            int curr_coin = nums[i-1]*nums[k]*nums[j+1] + solve(nums,i,k-1,res) + solve(nums,k+1,j,res);
             max_coin = max(max_coin,curr_coin);
         }
 
@@ -18,7 +17,7 @@ public:
         int n = nums.size();
         nums.insert(nums.begin(),1);
         nums.push_back(1);
-        memset(res,-1,sizeof(res));
-        return solve(nums,1,n);
+        vector<vector<int>> res(n+1,vector<int>(n+1,-1));
+        return solve(nums,1,n,res);
     }
 };

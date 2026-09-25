@@ -283,6 +283,7 @@
 | [0058-length-of-last-word](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -523,6 +524,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |

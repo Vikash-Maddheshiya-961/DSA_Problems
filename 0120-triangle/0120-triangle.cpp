@@ -9,7 +9,7 @@ public:
     }
     int minimumTotal(vector<vector<int>>& triangle) {
         n = triangle.size();
-        res.assign(201,vector<int>(201,INT_MIN));
+        res.assign(n+1,vector<int>(n+1,INT_MIN));
         return solve(triangle,0,0);
     }
 };

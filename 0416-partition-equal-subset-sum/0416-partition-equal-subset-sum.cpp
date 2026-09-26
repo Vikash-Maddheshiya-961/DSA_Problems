@@ -7,18 +7,16 @@ public:
             total_sum += val;
         }
 
-        vector<vector<int>> dp(n+1,vector<int>(2*total_sum + 1,0));
-
-        for(int i = n-1;i>=0;i--){
-            for(int j = total_sum; j>=0; j--){
-                if(2*j == total_sum) {
-                    dp[i][j] = 1;
-                    continue;
-                }
-                dp[i][j] = dp[i+1][j] || dp[i+1][j + nums[i]];
+        if(total_sum %2 != 0) return false;
+        int target = total_sum/2;
+        vector<int> dp(target+1,0);
+        dp[0] = 1;
+        for(int i = 0;i < n;i++){
+            for(int j = target;j >= nums[i] ;j--){
+                dp[j] = dp[j] || dp[j-nums[i]];
             }
         }
 
-        return dp[0][0];
+        return dp[target];
     }
 };

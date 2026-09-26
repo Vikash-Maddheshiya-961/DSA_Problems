@@ -1,16 +1,25 @@
 class Solution {
 public:
-    int fib(int n) {
+    int res[31];
+    int fibo(int n){
         if(n <= 1) return n;
-        int prev = 0;
-        int curr = 1;
+        if(n == 2) return 1;
 
-        for(int i=2;i<=n;i++){
-            int nxt = prev + curr;
-            prev = curr;
-            curr = nxt;
+        if(res[n]!=-1) return res[n];
+        if(n%2 != 0){
+            int a = fibo(n/2);
+            int b = fibo(n/2 + 1);
+            return res[n] = a*a + b*b;
         }
 
-        return curr;
+        int a = fibo(n/2 + 1);
+        int b = fibo(n/2 - 1);
+
+        return res[n] = a*a - b*b;
+    }
+    int fib(int n) {
+        if(n <= 1) return n;
+        memset(res,-1,sizeof(res));
+        return fibo(n);
     }
 };

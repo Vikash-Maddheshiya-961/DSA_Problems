@@ -284,6 +284,7 @@
 | [0038-count-and-say](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -523,6 +524,7 @@
 | [0063-unique-paths-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0119-pascals-triangle-ii) |

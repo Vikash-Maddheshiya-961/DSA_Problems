@@ -1,11 +1,13 @@
 class Solution {
 public:
+    int res[31];
+    int fibo(int n){
+        if(n <= 1) return n;
+        if(res[n] != -1) return res[n];
+        return res[n] = fibo(n-1) + fibo(n-2);
+    }
     int fib(int n) {
-        vector<int> fibo(n+1,-1);
-        for(int i=0;i<=n;i++){
-            if(i <= 1) fibo[i] = i;
-            else fibo[i] = fibo[i-1] + fibo[i-2]; 
-        }
-        return fibo[n];
+        memset(res,-1,sizeof(res));
+        return fibo(n);
     }
 };

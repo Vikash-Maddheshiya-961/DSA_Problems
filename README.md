@@ -257,6 +257,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2498-frog-jump-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -343,6 +344,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2498-frog-jump-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -377,6 +379,7 @@
 | [1402-reducing-dishes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2498-frog-jump-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2498-frog-jump-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |

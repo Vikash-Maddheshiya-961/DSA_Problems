@@ -1,22 +1,24 @@
 class Solution {
 public:
-    int total_sum;
-    int n;
-    int res[201][20001];
-    bool solve(vector<int>&nums,int idx,int sum){
-        if(total_sum == 2*sum) return true;
-        if(idx == n) return false;
-
-        if(res[idx][sum] != -1) return res[idx][sum];
-        return res[idx][sum] = solve(nums,idx+1,sum) || solve(nums,idx+1,sum+nums[idx]);
-    }
     bool canPartition(vector<int>& nums) {
-        total_sum = 0;
-        n = nums.size();
+        int total_sum = 0;
+        int n = nums.size();
         for(int val:nums){
             total_sum += val;
         }
-        memset(res,-1,sizeof(res));
-        return solve(nums,0,0);
+
+        vector<vector<int>> dp(201,vector<int>(40002,0));
+
+        for(int i = n-1;i>=0;i--){
+            for(int j = total_sum; j>=0; j--){
+                if(2*j == total_sum) {
+                    dp[i][j] = 1;
+                    continue;
+                }
+                dp[i][j] = dp[i+1][j] || dp[i+1][j + nums[i]];
+            }
+        }
+
+        return dp[0][0];
     }
 };

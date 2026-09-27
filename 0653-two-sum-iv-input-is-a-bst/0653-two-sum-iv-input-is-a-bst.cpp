@@ -11,23 +11,21 @@
  */
 class bstiterator{
 private:
-    void push1(TreeNode* curr){
-        while(curr){
-            s1.push(curr);
-            curr = curr -> left;
+    void push1(TreeNode* root){
+        while(root){
+            s1.push(root);
+            root = root->left;
         }
-        return;
     }
-    void push2(TreeNode* curr){
-        while(curr){
-            s2.push(curr);
-            curr = curr -> right;
+    void push2(TreeNode* root){
+        while(root){
+            s2.push(root);
+            root = root->right;
         }
-        return;
     }
 public:
-    stack<TreeNode*> s1;// next
-    stack<TreeNode*> s2;// before
+    stack<TreeNode*> s1;//next
+    stack<TreeNode*> s2;//before
     bstiterator(TreeNode* root){
         push1(root);
         push2(root);
@@ -57,12 +55,11 @@ public:
         bstiterator bst(root);
         int i = bst.next();
         int j = bst.before();
-        while(i<j){
+
+        while(i < j){
             int sum = i+j;
             if(sum == k) return true;
-            else if(sum < k){
-                i = bst.next();
-            }
+            if(sum < k) i = bst.next();
             else j = bst.before();
         }
 

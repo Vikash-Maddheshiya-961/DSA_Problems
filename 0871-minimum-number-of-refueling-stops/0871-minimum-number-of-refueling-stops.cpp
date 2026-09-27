@@ -1,13 +1,11 @@
 class Solution {
 public:
     int minRefuelStops(int target, int startFuel, vector<vector<int>>& stations) {
-        vector<int> v;
-        v.push_back(target);
-        v.push_back(0);
+        vector<int> v = {target,0};
         stations.push_back(v);
 
         int n = stations.size();
-        priority_queue<int> pq;
+        priority_queue<int> pq;// maxheap;
 
         int fuel = startFuel;
         int ans = 0;
@@ -23,6 +21,7 @@ public:
             }
             pq.push(stations[i][1]);
         }
+
         return ans;
     }
 };

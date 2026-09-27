@@ -101,6 +101,7 @@
 | [0229-majority-element-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
@@ -213,6 +214,7 @@
 | [0312-burst-balloons](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0377-combination-sum-iv) |
@@ -374,6 +376,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
@@ -589,6 +592,7 @@
 | [0242-valid-anagram](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0368-largest-divisible-subset) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -687,6 +691,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
@@ -724,6 +729,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -795,6 +801,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -855,4 +862,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

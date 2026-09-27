@@ -16,18 +16,23 @@ public:
         if(!root){
             return temp;
         }
-
-        TreeNode* prev = NULL;
-        TreeNode* curr = root;
-
-        while(curr){
-            prev = curr;
-            if(val < curr->val) curr = curr -> left;
-            else curr = curr -> right;
+        TreeNode* ptr = root;
+        while(ptr){
+            if(val < ptr->val){
+                if(ptr->left) ptr = ptr->left;
+                else {
+                    ptr->left = temp;
+                    break;
+                }
+            }
+            else{
+                if(ptr->right) ptr = ptr->right;
+                else {
+                    ptr->right = temp;
+                    break;
+                }
+            }
         }
-
-        if(val < prev->val) prev -> left = temp;
-        else prev -> right = temp;
 
         return root;
     }

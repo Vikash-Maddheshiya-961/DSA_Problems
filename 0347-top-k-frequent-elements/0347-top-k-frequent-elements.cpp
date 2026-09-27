@@ -11,8 +11,6 @@ public:
         priority_queue<pi,vector<pi>,greater<pi>> pq;
 
         for(auto p:mp){
-            int val = p.first;
-            int freq = p.second;
             pq.push({p.second,p.first});
             if(pq.size() > k) pq.pop();
         }

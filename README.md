@@ -178,6 +178,7 @@
 | [0048-rotate-image](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0064-minimum-path-sum) |
@@ -588,6 +589,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0169-majority-element) |
@@ -882,4 +884,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

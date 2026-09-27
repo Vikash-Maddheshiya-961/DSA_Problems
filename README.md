@@ -224,6 +224,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0455-assign-cookies) |
@@ -390,6 +391,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
@@ -562,6 +564,7 @@
 | [0392-is-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -603,6 +606,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |

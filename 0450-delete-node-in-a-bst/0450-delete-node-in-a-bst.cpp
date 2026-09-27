@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-    int findsucc(TreeNode* curr){
-        while(curr->left) curr = curr -> left;
-        return curr->val;
+    int findsuccessor(TreeNode* root){
+        while(root->left) root = root->left;
+        return root->val;
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(root == NULL) return root;
-        if(key < root -> val){
+        if(root == NULL) return NULL;
+        if(key < root->val){
             root->left = deleteNode(root->left,key);
         }
-        else if(key > root -> val){
-            root -> right = deleteNode(root->right,key);
+        else if(key > root->val){
+            root->right = deleteNode(root->right,key);
         }
         else{
             if(root->left == NULL){
@@ -37,9 +37,9 @@ public:
                 return temp;
             }
             else{
-                int successor = findsucc(root->right);
-                root -> val = successor;
-                root->right = deleteNode(root->right,successor);
+                int succ = findsuccessor(root->right);
+                root->val = succ;
+                root->right = deleteNode(root->right,succ);
             }
         }
         return root;

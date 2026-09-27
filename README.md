@@ -315,6 +315,7 @@
 | [1048-longest-string-chain](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1250-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -581,6 +582,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1250-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-reducing-dishes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |

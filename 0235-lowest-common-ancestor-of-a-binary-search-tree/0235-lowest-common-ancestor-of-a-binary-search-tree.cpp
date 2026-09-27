@@ -10,11 +10,11 @@
 
 class Solution {
 public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) { // TC : O(logn) == O(H)
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         while(root){
             int data = root->val;
             if(p->val < data && q->val < data){
-                root = root -> left;
+                root = root->left;
             }
             else if(p->val > data && q->val > data){
                 root = root->right;

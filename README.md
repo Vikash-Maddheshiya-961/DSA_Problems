@@ -67,6 +67,7 @@
 | [0509-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -236,6 +237,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -372,6 +374,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -593,6 +596,7 @@
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1288-remove-covered-intervals) |
@@ -687,6 +691,7 @@
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -790,6 +795,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -841,4 +847,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

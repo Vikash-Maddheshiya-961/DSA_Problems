@@ -25,13 +25,12 @@ public:
             }
         }
         vector<int> ans;
-        int i = max_idx;
-        ans.push_back(nums[i]);
-        while(hash[i]!=i){
-            int curr = hash[i];
-            ans.push_back(nums[curr]);
-            i = curr;
+        int k = max_idx;
+        while(k != hash[k]){
+            ans.push_back(nums[k]);
+            k = hash[k];
         }
+        ans.push_back(nums[k]);
         reverse(ans.begin(),ans.end());
         return ans;
     }

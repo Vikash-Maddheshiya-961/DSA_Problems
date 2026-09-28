@@ -10,15 +10,17 @@ public:
         // Longest Increasing Subsequence
         vector<int> ans;
         ans.push_back(envelopes[0][1]);
+
         for(int i=1;i<n;i++){
             int h = envelopes[i][1];
+
             if(h > ans.back()) ans.push_back(h);
-            else {
-                // just greater element index than h
+            else{
                 int index = lower_bound(ans.begin(),ans.end(),h) - ans.begin();
                 ans[index] = h;
             }
         }
+
         return ans.size();
     }
 };

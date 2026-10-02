@@ -487,6 +487,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -701,6 +702,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -712,6 +714,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -741,6 +744,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2685-count-the-number-of-complete-components) |

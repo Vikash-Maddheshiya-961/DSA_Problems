@@ -1,29 +1,20 @@
 class Solution {
 public:
-    void bfs(vector<vector<int>>& adj,int s,vector<int>& visited){
-        queue<int> q;
-        q.push(s);
-        visited[s] = 1;
+    void dfs(vector<vector<int>>& adj,int node,vector<int>& visited){
+        visited[node] = 1;
 
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-            for(int neigh:adj[node]){
-                if(visited[neigh] == 0){
-                    q.push(neigh);
-                    visited[neigh] = 1;
-                }
+        for(int neigh:adj[node]){
+            if(visited[neigh] == 0){
+                dfs(adj,neigh,visited);
             }
         }
-
-        return;
     }
     void solve(vector<vector<int>>& adj,int &count,int &n){
         vector<int> visited(n,0);
         for(int i=0;i<n;i++){
             if(visited[i] == 0){
                 count++;
-                bfs(adj,i,visited);
+                dfs(adj,i,visited);
             }
         }
         return;

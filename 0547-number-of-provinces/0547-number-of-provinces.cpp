@@ -9,16 +9,6 @@ public:
             }
         }
     }
-    void solve(vector<vector<int>>& adj,int &count,int &n){
-        vector<int> visited(n,0);
-        for(int i=0;i<n;i++){
-            if(visited[i] == 0){
-                count++;
-                dfs(adj,i,visited);
-            }
-        }
-        return;
-    }
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
         vector<vector<int>> adj(n);
@@ -32,7 +22,13 @@ public:
         }
 
         int count = 0;
-        solve(adj,count,n);
+        vector<int> visited(n,0);
+        for(int i=0;i<n;i++){
+            if(visited[i] == 0){
+                count++;
+                dfs(adj,i,visited);
+            }
+        }
         return count;
     }
 };

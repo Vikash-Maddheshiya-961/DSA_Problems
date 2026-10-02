@@ -20,8 +20,6 @@ public:
     }
     void solve(vector<vector<int>>& adj,int &count,int &n){
         vector<int> visited(n,0);
-        bfs(adj,0,visited);
-        count++;
         for(int i=0;i<n;i++){
             if(visited[i] == 0){
                 count++;

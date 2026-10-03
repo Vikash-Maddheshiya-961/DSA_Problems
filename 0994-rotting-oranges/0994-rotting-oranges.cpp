@@ -10,10 +10,10 @@ public:
         queue<pair<int,int>> q;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j] == 2){
+                if(Grid[i][j] == 2){
                     q.push({i,j});
                 }
-                else if(grid[i][j] == 1){
+                else if(Grid[i][j] == 1){
                     fresh++;
                 }
             }
@@ -35,10 +35,10 @@ public:
                     int new_row = row + d_rows[k];
                     int new_col = col + d_cols[k];
                     if(new_row >= 0 && new_row < m && new_col >= 0 && new_col < n){
-                        if(grid[new_row][new_col] == 1){
+                        if(Grid[new_row][new_col] == 1){
                             flag = true;
                             q.push({new_row,new_col});
-                            grid[new_row][new_col] = 2;
+                            Grid[new_row][new_col] = 2;
                             fresh--;
                         }
                     }

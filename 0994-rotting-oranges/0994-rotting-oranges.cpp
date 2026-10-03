@@ -47,16 +47,6 @@ public:
 
         vector<vector<int>> Grid = grid;
 
-        vector<pair<int,int>> twos;
-
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j] == 2){
-                    twos.push_back({i,j});
-                }
-            }
-        }
-
         int count = 0;
         bfs(Grid,0,0,count);
         for(int i=0;i<m;i++){

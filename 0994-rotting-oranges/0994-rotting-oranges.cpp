@@ -1,14 +1,20 @@
 class Solution {
 public:
-    void bfs(vector<vector<int>>& grid,int r,int c,int& count){
+    int orangesRotting(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
 
+        vector<vector<int>> Grid = grid;
+
+        int fresh = 0;
         queue<pair<int,int>> q;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j] == 2){
                     q.push({i,j});
+                }
+                else if(grid[i][j] == 1){
+                    fresh++;
                 }
             }
         }
@@ -16,6 +22,7 @@ public:
         int d_rows[] = {-1,1,0,0};
         int d_cols[] = {0,0,-1,1};
 
+        int minutes = 0;
         while(!q.empty()){
             int size = q.size();
 
@@ -32,29 +39,17 @@ public:
                             flag = true;
                             q.push({new_row,new_col});
                             grid[new_row][new_col] = 2;
+                            fresh--;
                         }
                     }
                 }
             }
-            if(flag == true) count++;
+
+            if(flag == true) minutes++;
         }
 
-        return;
-    }
-    int orangesRotting(vector<vector<int>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-
-        vector<vector<int>> Grid = grid;
-
-        int count = 0;
-        bfs(Grid,0,0,count);
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(Grid[i][j] == 1) return -1;
-            }
-        }
+        if(fresh > 0) return -1;
         
-        return count;
+        return minutes;
     }
 };

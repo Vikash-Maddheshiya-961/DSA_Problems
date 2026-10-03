@@ -4,19 +4,13 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        vector<pair<int,int>> twos;
-
+        queue<pair<int,int>> q;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j] == 2){
-                    twos.push_back({i,j});
+                    q.push({i,j});
                 }
             }
-        }
-        queue<pair<int,int>> q;
-
-        for(auto p:twos){
-            q.push({p.first,p.second});
         }
 
         int d_rows[] = {-1,1,0,0};

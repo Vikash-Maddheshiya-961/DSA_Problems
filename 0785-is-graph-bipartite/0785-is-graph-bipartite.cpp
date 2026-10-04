@@ -1,4 +1,20 @@
 class Solution {
+private:
+    bool dfs(vector<vector<int>>& graph, vector<int>& color, int node,int parent){
+        if(parent == -1){
+            color[node] = 0;
+        }
+        else color[node] = !color[parent];
+
+        for(int neigh:graph[node]){
+            if(color[neigh] == -1){
+                if(dfs(graph,color,neigh,node) == false) return false;
+            }
+            else if(color[neigh] == color[node]) return false;
+        }
+
+        return true;
+    }
 public:
     bool isBipartite(vector<vector<int>>& graph) {
         int n = 0;
@@ -13,22 +29,7 @@ public:
         
         for(int i=0;i<n;i++){
             if(color[i] == -1){
-                queue<int> q;
-                q.push(i);
-                color[i] = 0;
-
-                while(!q.empty()){
-                    int node = q.front();
-                    q.pop();
-
-                    for(int neigh:graph[node]){
-                        if(color[neigh] == -1){
-                            q.push(neigh);
-                            color[neigh] = !color[node];
-                        }
-                        else if(color[neigh] == color[node]) return false;
-                    }
-                }
+                if(dfs(graph,color,i,-1) == false) return false;
             }
         }
 

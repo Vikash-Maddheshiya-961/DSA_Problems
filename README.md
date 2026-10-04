@@ -498,6 +498,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -722,6 +723,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
@@ -736,6 +738,7 @@
 | [0200-number-of-islands](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -767,6 +770,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -945,4 +949,12 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0583-delete-operation-for-two-strings) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->

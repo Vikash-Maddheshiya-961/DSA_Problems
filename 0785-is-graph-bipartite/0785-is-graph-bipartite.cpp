@@ -20,14 +20,13 @@ public:
                 while(!q.empty()){
                     int node = q.front();
                     q.pop();
-                    int c = color[node];
 
                     for(int neigh:graph[node]){
                         if(color[neigh] == -1){
                             q.push(neigh);
-                            color[neigh] = (c == 0 ? 1 : 0);
+                            color[neigh] = !color[node];
                         }
-                        else if(color[neigh] == c) return false;
+                        else if(color[neigh] == color[node]) return false;
                     }
                 }
             }

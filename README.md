@@ -254,6 +254,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1048-longest-string-chain) |
 | [1052-grumpy-bookstore-owner](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1052-grumpy-bookstore-owner) |
@@ -496,6 +497,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -670,6 +672,7 @@
 | [0867-transpose-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1572-matrix-diagonal-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -717,6 +720,7 @@
 | [0733-flood-fill](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -727,6 +731,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2685-count-the-number-of-complete-components) |

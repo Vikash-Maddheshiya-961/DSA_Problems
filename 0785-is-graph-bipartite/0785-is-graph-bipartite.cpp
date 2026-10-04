@@ -1,49 +1,33 @@
 class Solution {
 public:
     bool isBipartite(vector<vector<int>>& graph) {
-
         int n = 0;
         for(auto v:graph){
             for(auto val:v){
-                n = max(val,n);
+                n = max(n,val);
             }
         }
         n++;
 
-        vector<int> visited(n,0);
+        vector<int> color(n,-1);
+        
         for(int i=0;i<n;i++){
-            if(visited[i] == 0){
-                set<int> s1;
-                set<int> s2;
+            if(color[i] == -1){
                 queue<int> q;
                 q.push(i);
-                s1.insert(i);
-                visited[i] = 1;
+                color[i] = 0;
 
                 while(!q.empty()){
                     int node = q.front();
                     q.pop();
-                    int number;
-                    if(s1.count(node)) number = 1;
-                    if(s2.count(node)) number = 2;
+                    int c = color[node];
 
                     for(int neigh:graph[node]){
-                        if(number == 1){
-                            if(s1.count(neigh)) return false;
-                            if(s2.count(neigh) == 0 && visited[neigh] == 0){
-                                s2.insert(neigh);
-                                q.push(neigh);
-                                visited[neigh] = 1;
-                            }
+                        if(color[neigh] == -1){
+                            q.push(neigh);
+                            color[neigh] = (c == 0 ? 1 : 0);
                         }
-                        else{
-                            if(s2.count(neigh)) return false;
-                            if(s1.count(neigh) == 0 && visited[neigh] == 0){
-                                s1.insert(neigh);
-                                q.push(neigh);
-                                visited[neigh] = 1;
-                            }
-                        }
+                        else if(color[neigh] == c) return false;
                     }
                 }
             }

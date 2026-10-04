@@ -16,11 +16,11 @@ public:
                     queue<pair<int,int>> q;
                     q.push({i,j});
                     visited[i][j] = 1;
+                    curr_area++;
                     
                     while(!q.empty()){
                         int row = q.front().first;
                         int col = q.front().second;
-                        curr_area++;
                         q.pop();
 
                         for(int k=0;k<4;k++){
@@ -31,6 +31,7 @@ public:
                                 if(grid[new_row][new_col] == 1 && visited[new_row][new_col] == 0){
                                     q.push({new_row,new_col});
                                     visited[new_row][new_col] = 1;
+                                    curr_area++;
                                 }
                             }
                         }

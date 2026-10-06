@@ -1,46 +1,42 @@
 class Solution {
-private:
-    bool dfs(vector<vector<int>>& graph,vector<int>& visited,vector<int>& pathvisited,vector<int>& check,int node){
-        visited[node] = 1;
-        pathvisited[node] = 1;
-
-        check[node] = 0;
-        for(int neigh:graph[node]){
-            if(visited[neigh] == 0){
-                if(dfs(graph,visited,pathvisited,check,neigh) == true){
-                    check[node] = 0;
-                    return true;
-                }
-            }
-            else if(pathvisited[neigh] == 1){
-                check[node] = 0;
-                return true;
-            }
-        }
-
-        check[node] = 1;
-        pathvisited[node] = 0;
-
-        return false;
-    }
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<int> visited(n,0);
-        vector<int> pathvisited(n,0);
-        vector<int> check(n,0);
-
+        vector<vector<int>> adj(n);
+        for(int node=0;node<n;node++){
+            for(int neigh:graph[node]){
+                adj[neigh].push_back(node);
+            }
+        }
+        vector<int> inorder(n,0);
+        for(auto node:adj){
+            for(auto neigh:node){
+                inorder[neigh]++;
+            }
+        }
+        queue<int> q;
         for(int i=0;i<n;i++){
-            if(visited[i] == 0){
-                dfs(graph,visited,pathvisited,check,i);
+            if(inorder[i] == 0){
+                q.push(i);
+            }
+        }
+        vector<int> topo;
+
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            topo.push_back(node);
+
+            for(auto neigh:adj[node]){
+                inorder[neigh]--;
+                if(inorder[neigh] == 0){
+                    q.push(neigh);
+                }
             }
         }
 
-        vector<int> ans;
-        for(int i=0;i<n;i++){
-             if(check[i] == 1) ans.push_back(i);
-        }
+        sort(topo.begin(),topo.end());
 
-        return ans;
+        return topo;
     }
 };

@@ -2,9 +2,9 @@ class Solution {
 public:
     unordered_map<string,int> mp;
     vector<vector<string>> ans;
-    string b;
+    string beginWordii;
     void dfs(string word,vector<string> seq){
-        if(word == b){
+        if(word == beginWordii){
             reverse(seq.begin(),seq.end());
             ans.push_back(seq);
             reverse(seq.begin(),seq.end());
@@ -16,7 +16,7 @@ public:
             int original = word[i];
 
             for(char ch = 'a'; ch <= 'z'; ch++){
-                word[i]= ch;
+                word[i] = ch;
                 if(mp.find(word) != mp.end() && mp[word] + 1 == steps){
                     seq.push_back(word);
                     dfs(word,seq);
@@ -31,13 +31,12 @@ public:
     vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList) {
         unordered_set<string> s(wordList.begin(),wordList.end());
 
-        b = beginWord;
+        beginWordii = beginWord;
 
         queue<string> q;
         q.push(beginWord);
         mp[beginWord] = 1;
         s.erase(beginWord);
-        int shortest_dist = 0;
         while(!q.empty()){
             string str = q.front();
             int steps = mp[str];

@@ -1,14 +1,14 @@
 class Solution {
 public:
     int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
-        vector<vector<int>> adj(n+1);
+        vector<vector<int>> adj(n);
         for(auto edge:relations){
-            int u = edge[0];
-            int v = edge[1];
+            int u = edge[0]-1;
+            int v = edge[1]-1;
             adj[u].push_back(v);
         }
 
-        vector<int> inorder(n+1,0);
+        vector<int> inorder(n,0);
         for(auto node:adj){
             for(auto neigh:node){
                 inorder[neigh]++;
@@ -16,11 +16,11 @@ public:
         }
 
         queue<int> q;
-        vector<int> max_time(n+1,0);
-        for(int i=1;i<=n;i++){
+        vector<int> max_time(n,0);
+        for(int i=0;i<n;i++){
             if(inorder[i] == 0){
                 q.push(i);
-                max_time[i] = time[i-1];
+                max_time[i] = time[i];
             }
         }
 
@@ -31,7 +31,7 @@ public:
             int t = max_time[node];
 
             for(auto neigh:adj[node]){
-                int tn = time[neigh-1];
+                int tn = time[neigh];
                 max_time[neigh] = max(max_time[neigh],t+tn);
                 inorder[neigh]--;
                 if(inorder[neigh] == 0){
@@ -41,7 +41,7 @@ public:
         }
 
         int months = 0;
-        for(int i=1;i<=n;i++){
+        for(int i=0;i<n;i++){
             months = max(max_time[i],months);
         }
 

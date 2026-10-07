@@ -21,8 +21,8 @@ public:
 
             for(int i=0;i<str.size();i++){
                 string temp = str;
-                for(int j=0;j<26;j++){
-                    temp[i] = char(j + 'a');
+                for(char ch = 'a';ch <= 'z'; ch++){
+                    temp[i] = ch;
                     if(s.count(temp)){
                         q.push({temp,dist+1});
                         s.erase(temp);

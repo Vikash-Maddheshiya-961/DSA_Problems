@@ -278,6 +278,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2050-parallel-courses-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2187-minimum-time-to-complete-trips) |
@@ -612,6 +613,7 @@
 | [1402-reducing-dishes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2050-parallel-courses-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2050-parallel-courses-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
@@ -790,6 +792,7 @@
 | [0785-is-graph-bipartite](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2050-parallel-courses-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2050-parallel-courses-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -807,6 +810,7 @@
 | [0207-course-schedule](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0802-find-eventual-safe-states) |
+| [2050-parallel-courses-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2050-parallel-courses-iii) |
 | [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
 ## Counting
 |  |
@@ -991,6 +995,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0207-course-schedule) |
+| [2050-parallel-courses-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2050-parallel-courses-iii) |
 ## Bidirectional Search
 |  |
 | ------- |

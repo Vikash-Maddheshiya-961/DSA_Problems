@@ -115,6 +115,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -331,6 +332,7 @@
 | [1250-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -613,6 +615,7 @@
 | [1402-reducing-dishes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2050-parallel-courses-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -624,6 +627,7 @@
 | [0509-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -791,6 +795,7 @@
 | [0547-number-of-provinces](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2050-parallel-courses-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -810,6 +815,7 @@
 | [0207-course-schedule](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2050-parallel-courses-iii) |
 | [3620-network-recovery-pathways](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3620-network-recovery-pathways) |
 ## Counting
@@ -820,6 +826,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
@@ -995,6 +1002,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0207-course-schedule) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2050-parallel-courses-iii) |
 ## Bidirectional Search
 |  |

@@ -1,6 +1,7 @@
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
+        // adjacency matrix
         vector<vector<long long>> dist(n,vector<long long>(n,LONG_MAX));
         for(auto edge:edges){
             int u = edge[0];
@@ -26,22 +27,18 @@ public:
             }
         }
 
-        vector<long long> count(n,0);
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(i != j && dist[i][j] <= distanceThreshold){
-                    count[i]++;
-                }
-            }
-        }
-
         int mini = INT_MAX;
         int ans = -1;
 
         for(int i=0;i<n;i++){
-            if(mini >= count[i]){
-                mini = count[i];
+            int count = 0;
+            for(int j=0;j<n;j++){
+                if(i != j && dist[i][j] <= distanceThreshold){
+                    count++;
+                }
+            }
+            if(mini >= count){
+                mini = count;
                 ans = i;
             }
         }

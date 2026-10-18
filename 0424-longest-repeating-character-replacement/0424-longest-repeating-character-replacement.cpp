@@ -13,12 +13,8 @@ public:
 
             max_freq = max(max_freq,mp[s[r]-'A']);
 
-            while((r-l+1)-max_freq > k){
+            if((r-l+1)-max_freq > k){
                 mp[s[l]-'A']--;
-                max_freq = 0;
-                for(int i=0;i<26;i++){
-                    max_freq = max(max_freq,mp[i]);
-                }
                 l++;
             }
 

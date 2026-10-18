@@ -105,6 +105,7 @@
 | [0242-valid-anagram](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
@@ -330,6 +331,7 @@
 | [0242-valid-anagram](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1048-longest-string-chain) |
@@ -348,6 +350,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0904-fruit-into-baskets) |

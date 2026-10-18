@@ -114,6 +114,7 @@
 | [0904-fruit-into-baskets](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -260,6 +261,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -357,6 +359,7 @@
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -867,6 +870,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3312-sorted-gcd-pair-queries) |

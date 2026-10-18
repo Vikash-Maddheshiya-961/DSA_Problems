@@ -272,6 +272,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1402-reducing-dishes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1402-reducing-dishes) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
@@ -352,6 +353,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Binary Search
@@ -869,6 +871,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2389-longest-subsequence-with-limited-sum) |

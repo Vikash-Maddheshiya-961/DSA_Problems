@@ -9,10 +9,9 @@ public:
         int max_len = 0;
 
         while(r < n){
-            if(nums[r] == 0 && count >= k){
+            while(nums[r] == 0 && count >= k){
                 if(nums[l] == 0) count--;
                 l++;
-                continue;
             }
 
             max_len = max(max_len,r-l+1);

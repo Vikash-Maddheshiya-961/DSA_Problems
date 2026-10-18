@@ -1,25 +1,28 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        // Using sliding window
         int n = s.length();
-        int right = 0, left = 0;
-        vector<int> freq(3,0);
-        int total = 0;
 
-        while(right < n){
-            char rightChar = s[right];
-            freq[rightChar - 'a']++;
+        int l = 0;
+        int r = 0;
 
-            while(freq[0] > 0 && freq[1] > 0 && freq[2] > 0){
-                total += n-right;
+        int count = 0;
 
-                char leftChar = s[left];
-                freq[leftChar - 'a']--;
-                left++;
+        map<char,int> mp;
+
+        while(r < n){
+            mp[s[r]]++;
+            
+            while(mp.size() == 3){
+                count = count + n - r;
+                mp[s[l]]--;
+                if(mp[s[l]] == 0) mp.erase(s[l]);
+                l++;
             }
-            right ++;
+
+            r++;
         }
-        return total;
+
+        return count;
     }
 };

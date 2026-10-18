@@ -10,16 +10,12 @@ public:
         int max_len = 0;
 
         while(r < n){
-            int ch2 = s[r];
-            int idx2 = int(ch2);
-            while(mp[idx2] != 0){
-                int ch1 = s[l];
-                int idx1 = int(ch1);
-                mp[idx1]--;
+            while(mp[s[r]] != 0){
+                mp[s[l]]--;
                 l++;
             }
 
-            mp[idx2]++;
+            mp[s[r]]++;
             max_len = max(max_len,r-l+1);
             r++;
         }

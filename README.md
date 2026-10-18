@@ -110,6 +110,7 @@
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
+| [0904-fruit-into-baskets](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -253,6 +254,7 @@
 | [0867-transpose-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0867-transpose-matrix) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0994-rotting-oranges) |
@@ -348,6 +350,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |

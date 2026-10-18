@@ -12,7 +12,7 @@ public:
         while(r < n){
             mp[fruits[r]]++;
             
-            while(mp.size() > 2){
+            if(mp.size() > 2){
                 mp[fruits[l]]--;
                 if(mp[fruits[l]] == 0){
                     mp.erase(fruits[l]);
@@ -20,7 +20,9 @@ public:
                 l++;
             }
 
-            max_len = max(max_len,r-l+1);
+            if(mp.size() <= 2){
+                max_len = max(max_len,r-l+1);
+            }
             r++;
         }
 

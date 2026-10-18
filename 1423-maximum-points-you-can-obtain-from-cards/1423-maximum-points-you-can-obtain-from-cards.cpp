@@ -15,15 +15,12 @@ public:
         int r = n-1;
 
         while(l >= 0){
-            lsum -= cardPoints[l];
-            rsum += cardPoints[r];
+            lsum -= cardPoints[l--];
+            rsum += cardPoints[r--];
 
             sum = lsum + rsum;
 
             if(max_sum < sum) max_sum = sum;
-
-            l--;
-            r--;
         }
 
         return max_sum;

@@ -1,20 +1,14 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ans = 0;
+        int n = nums.size();
 
-        for(int bitIndex = 0; bitIndex <= 31; bitIndex++){
-            int cnt = 0;
+        sort(nums.begin(),nums.end());
 
-            for(int val:nums){
-                if(val & (1 << bitIndex)){
-                    cnt++;
-                }
-            }
-
-            if(cnt % 3 == 1) ans = ans | (1 << bitIndex);
+        for(int i=1;i<n;i+=3){
+            if(nums[i] != nums[i-1]) return nums[i-1];
         }
 
-        return ans;
+        return nums[n-1];
     }
 };

@@ -78,6 +78,7 @@
 | [1922-count-good-numbers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -123,6 +124,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -305,6 +307,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -731,6 +734,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |

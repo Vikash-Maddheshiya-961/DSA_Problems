@@ -7,19 +7,12 @@ public:
         }
 
         long long n = (x & (x - 1)) ^ x;
-        long long setbit;
-        for(long long i=0;i<=31;i++){
-            if(n & (1 << i)){
-                setbit = i;
-                break;
-            }
-        }
 
         long long b1 = 0;
         long long b2 = 0;
 
         for(long long val:nums){
-            if(val & (1 << setbit)) b1 ^= val;
+            if(val & n) b1 ^= val;
             else b2 ^= val;
         }
 

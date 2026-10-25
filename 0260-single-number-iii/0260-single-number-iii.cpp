@@ -3,7 +3,7 @@ public:
     vector<int> singleNumber(vector<int>& nums) {
         unordered_map<int,int> mp;
 
-        for(int val:nums){
+        for(int& val:nums){
             mp[val]++;
         }
 

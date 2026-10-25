@@ -1,16 +1,20 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int> mp;
+        int ans = 0;
 
-        for(int val:nums){
-            mp[val]++;
+        for(int bitIndex = 0; bitIndex <= 31; bitIndex++){
+            int cnt = 0;
+
+            for(int val:nums){
+                if(val & (1 << bitIndex)){
+                    cnt++;
+                }
+            }
+
+            if(cnt % 3 == 1) ans = ans | (1 << bitIndex);
         }
 
-        for(auto p:mp){
-            if(p.second == 1) return p.first;
-        }
-
-        return -1;
+        return ans;
     }
 };

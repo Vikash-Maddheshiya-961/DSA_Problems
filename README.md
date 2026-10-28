@@ -556,6 +556,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -864,6 +865,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0802-find-eventual-safe-states) |
+| [1192-critical-connections-in-a-network](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1118,4 +1120,12 @@
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

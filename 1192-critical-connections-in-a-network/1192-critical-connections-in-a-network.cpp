@@ -1,7 +1,12 @@
 class Solution {
 private:
+    vector<vector<int>> adj;
+    vector<int> visited;
+    vector<int> tin;
+    vector<int> low;
+    vector<vector<int>> bridges;
     int timer = 1;
-    void dfs(int node,int parent,vector<vector<int>>& adj,vector<int>& visited,int tin[],int low[], vector<vector<int>>& bridges){
+    void dfs(int node,int parent){
         visited[node] = 1;
         tin[node] = low[node] = timer;
         timer++;
@@ -9,7 +14,7 @@ private:
         for(auto neigh:adj[node]){
             if(neigh == parent) continue;
             if(!visited[neigh]){
-                dfs(neigh,node,adj,visited,tin,low,bridges);
+                dfs(neigh,node);
                 low[node] = min(low[node],low[neigh]);
                 if(tin[node] < low[neigh]){
                     bridges.push_back({node,neigh});
@@ -24,7 +29,7 @@ private:
      }
 public:
     vector<vector<int>> criticalConnections(int n, vector<vector<int>>& connections) {
-        vector<vector<int>> adj(n);
+        adj.resize(n);
         for(auto edge:connections){
             int u = edge[0];
             int v = edge[1];
@@ -32,14 +37,13 @@ public:
             adj[v].push_back(u);
         }
 
-        vector<int> visited(n,0);
-        int tin[n];
-        int low[n];
-        vector<vector<int>> bridges;
+        visited.assign(n,0);
+        tin.resize(n);
+        low.resize(n);
 
         for(int node=0; node<n; node++){
             if(!visited[node]){
-                dfs(node,-1,adj,visited,tin,low,bridges);
+                dfs(node,-1);
             }
         }
 

@@ -37,16 +37,6 @@ class DisjointSet{
 
             return;
         }
-
-        int comp(int n){
-            set<int> s;
-
-            for(int i=0;i<n;i++){
-                s.insert(Find(i));
-            }
-
-            return s.size();
-        }
 };
 class Solution {
 public:
@@ -62,6 +52,12 @@ public:
             }
         }
 
-        return ds.comp(n);
+        set<int> s;
+
+        for(int i=0;i<n;i++){
+            s.insert(ds.Find(i));
+        }
+        
+        return s.size();
     }
 };

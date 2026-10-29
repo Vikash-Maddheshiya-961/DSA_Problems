@@ -1,34 +1,67 @@
-class Solution {
-public:
-    void dfs(vector<vector<int>>& adj,int node,vector<int>& visited){
-        visited[node] = 1;
+class DisjointSet{
+    private:
+        vector<int> parent;
+        vector<int> size;
 
-        for(int neigh:adj[node]){
-            if(visited[neigh] == 0){
-                dfs(adj,neigh,visited);
+    public:
+        DisjointSet(int n){
+            size.assign(n,1);
+            parent.resize(n);
+            for(int i=0;i<n;i++){
+                parent[i] = i;
             }
         }
-    }
+
+        int Find(int u){
+            if(parent[u] == u){
+                return u;
+            }
+
+            return parent[u] = Find(parent[u]);
+        }
+
+        void Union(int u,int v){
+            int a = Find(u);
+            int b = Find(v);
+
+            if(a == b) return;
+
+            if(size[a] < size[b]){
+                parent[a] = b;
+                size[b] += size[a];
+            }
+            else{
+                parent[b] = a;
+                size[a] += size[b];
+            }
+
+            return;
+        }
+
+        int comp(int n){
+            set<int> s;
+
+            for(int i=0;i<n;i++){
+                s.insert(Find(i));
+            }
+
+            return s.size();
+        }
+};
+class Solution {
+public:
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
-        vector<vector<int>> adj(n);
+
+        DisjointSet ds(n);
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(isConnected[i][j] == 1){
-                    adj[i].push_back(j);
-                    adj[j].push_back(i);
+            for(int j=0;j<n;j++){
+                if(i != j && isConnected[i][j] == 1){
+                    ds.Union(i,j);
                 }
             }
         }
 
-        int count = 0;
-        vector<int> visited(n,0);
-        for(int i=0;i<n;i++){
-            if(visited[i] == 0){
-                count++;
-                dfs(adj,i,visited);
-            }
-        }
-        return count;
+        return ds.comp(n);
     }
 };

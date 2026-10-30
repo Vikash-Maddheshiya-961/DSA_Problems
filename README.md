@@ -115,6 +115,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -257,6 +258,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -351,6 +353,7 @@
 | [0392-is-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0721-accounts-merge](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -549,6 +552,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -701,6 +705,7 @@
 | [0455-assign-cookies](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -801,6 +806,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -822,6 +828,7 @@
 | [0200-number-of-islands](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1631-path-with-minimum-effort) |

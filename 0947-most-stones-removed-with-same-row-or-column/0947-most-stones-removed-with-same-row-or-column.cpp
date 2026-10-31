@@ -56,7 +56,7 @@ public:
 
         DisjointSet ds(maxrow + maxcol + 2);
 
-        set<int> uniquenode;
+        unordered_set<int> uniquenode;
         for(auto v:stones){
             int rownode = v[0];
             int colnode = v[1] + maxrow + 1;

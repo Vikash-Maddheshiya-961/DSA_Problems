@@ -563,6 +563,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1192-critical-connections-in-a-network) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -818,6 +819,7 @@
 | [0994-rotting-oranges](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -834,6 +836,7 @@
 | [0785-is-graph-bipartite](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -877,6 +880,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1192-critical-connections-in-a-network) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |

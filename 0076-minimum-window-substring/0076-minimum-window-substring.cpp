@@ -5,24 +5,25 @@ public:
         int m = t.length();
 
         vector<int> mp(256,0);
-        for(int i=0;i<m;i++){
-            mp[t[i]]++;
+        for(auto ch:t){
+            mp[ch]++;
         }
+
+        int count = 0;
+        int min_len = INT_MAX;
+        int start_idx = -1;
 
         int l = 0;
         int r = 0;
 
-        int count = 0;
-        int min_len = 1e9;
-        int min_idx = -1;
         while(r < n){
             if(mp[s[r]] > 0) count++;
             mp[s[r]]--;
 
             while(count == m){
-                if(r-l+1 < min_len){
+                if((r-l+1) < min_len){
                     min_len = r-l+1;
-                    min_idx = l;
+                    start_idx = l;
                 }
                 mp[s[l]]++;
                 if(mp[s[l]] > 0) count--;
@@ -32,6 +33,6 @@ public:
             r++;
         }
 
-        return min_idx == -1 ? "" : s.substr(min_idx,min_len);
+        return start_idx == -1 ? "" : s.substr(start_idx,min_len);
     }
 };

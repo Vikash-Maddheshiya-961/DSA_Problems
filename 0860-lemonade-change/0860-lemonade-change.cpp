@@ -4,23 +4,17 @@ public:
         int n = bills.size();
         int five = 0;
         int ten = 0;
-        int twenty = 0;
 
         for(int pay : bills){
             if(pay == 5){
                 five++;
             }
             else if(pay == 10){
+                if(five == 0) return false;
                 ten++;
-                if(five >= 1){
-                    five--;
-                }
-                else{
-                    return false;
-                }
+                five--;
             }
             else if(pay == 20){
-                twenty++;
                 if(ten >= 1 && five >= 1){
                     ten--;
                     five--;

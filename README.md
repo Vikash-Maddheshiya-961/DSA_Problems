@@ -267,6 +267,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-design-circular-queue](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0860-design-circular-queue) |
+| [0860-lemonade-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0867-transpose-matrix) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -456,6 +457,7 @@
 | [0455-assign-cookies](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |

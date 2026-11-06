@@ -24,11 +24,6 @@ public:
             }
         }
 
-        int sum = 0;
-        for(int val:nums){
-            sum += val;
-        }
-
-        return sum;
+        return accumulate(nums.begin(),nums.end(),0);
     }
 };

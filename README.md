@@ -195,6 +195,7 @@
 | [0048-rotate-image](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0059-spiral-matrix-ii) |
@@ -452,6 +453,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -634,6 +636,7 @@
 | [0022-generate-parentheses](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0064-minimum-path-sum) |

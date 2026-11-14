@@ -303,6 +303,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1572-matrix-diagonal-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -851,6 +852,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -897,6 +899,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1160,4 +1163,20 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1192-critical-connections-in-a-network) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->

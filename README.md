@@ -280,6 +280,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0994-rotting-oranges) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -678,6 +679,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1048-longest-string-chain](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
@@ -955,6 +957,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |

@@ -316,6 +316,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2498-frog-jump-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -428,6 +429,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2498-frog-jump-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -453,6 +455,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Greedy
 |  |
 | ------- |
@@ -1056,11 +1059,13 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -1087,6 +1092,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -1162,6 +1168,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Biconnected Component
 |  |
 | ------- |

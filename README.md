@@ -543,6 +543,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -579,6 +580,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0968-binary-tree-cameras](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1192-critical-connections-in-a-network) |
@@ -619,6 +621,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -681,6 +684,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
+| [0968-binary-tree-cameras](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0968-binary-tree-cameras) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1048-longest-string-chain](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1048-longest-string-chain) |
@@ -1038,6 +1042,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0968-binary-tree-cameras) |
 ## Binary Lifting
 |  |
 | ------- |

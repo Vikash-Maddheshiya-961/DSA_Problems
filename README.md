@@ -240,6 +240,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -409,6 +410,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0441-arranging-coins) |
@@ -446,6 +448,7 @@
 | [0191-number-of-1-bits](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0973-k-closest-points-to-origin) |
@@ -1051,10 +1054,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -1081,6 +1086,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -1154,6 +1160,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Biconnected Component
 |  |
@@ -1179,4 +1186,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->

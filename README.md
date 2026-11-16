@@ -369,6 +369,7 @@
 | [0767-reorganize-string](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -689,6 +690,7 @@
 | [1013-fibonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1013-fibonacci-number) |
 | [1048-longest-string-chain](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1250-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1121,6 +1123,7 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/Vikash-Maddheshiya-961/DSA_Problems/tree/master/1143-longest-common-subsequence) |
 ## Graph Coloring
 |  |
 | ------- |

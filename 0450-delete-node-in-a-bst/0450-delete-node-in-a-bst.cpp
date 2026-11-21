@@ -10,13 +10,17 @@
  * };
  */
 class Solution {
-public:
-    int findsuccessor(TreeNode* root){
-        while(root->left) root = root->left;
-        return root->val;
+private:
+    int min_element(TreeNode* temp){
+        while(temp -> left != NULL){
+            temp = temp->left;
+        }
+        return temp->val;
     }
+public:
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(root == NULL) return NULL;
+
         if(key < root->val){
             root->left = deleteNode(root->left,key);
         }
@@ -24,24 +28,22 @@ public:
             root->right = deleteNode(root->right,key);
         }
         else{
-            if(root->left == NULL){
-                TreeNode* temp = root->right;
-                root->right = NULL;
-                delete root;
-                return temp;
+            if(root->left == NULL && root->right == NULL){
+                return NULL;
             }
-            else if(root->right == NULL){
-                TreeNode* temp = root->left;
-                root->left = NULL;
-                delete root;
-                return temp;
-            }
-            else{
-                int succ = findsuccessor(root->right);
+            else if(root->left != NULL && root->right != NULL){
+                int succ = min_element(root->right);
                 root->val = succ;
                 root->right = deleteNode(root->right,succ);
             }
+            else if(root->left == NULL && root->right != NULL){
+                return root->right;
+            }
+            else{
+                return root->left;
+            }
         }
+
         return root;
     }
 };
